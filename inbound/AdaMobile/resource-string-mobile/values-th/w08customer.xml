@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="t08csttel">เบอร์โทรศัพท์.</string>
+    <string name="t08cstid">เลขบัตรประชาชน</string>
+    <string name="t08cstname">ชื่อ</string>
+    <string name="t08cstcode2">รหัสลูกค้า</string>
+    <string name="t08cstmem">เลขบัตรสมาชิก</string>
+    <string name="t08cstTax">เลขประจำตัวผู้เสียภาษี</string>
+    <string name="t08cstPoint">แต้มสะสม</string>
+    <string name="t08pdtcode">รหัสสินค้า</string>
+    <string name="t08pdtnamecst">ชื่อสินค้า</string>
+    <string name="t08quota">โควต้า</string>
+    <string name="t08cstdetail">ข้อมูลสมาชิก</string>
+    <string name="t08confirm_btn">ยืนยัน ค้นหาลูกค้า ตามเงื่อนไข</string>
+    <string name="t08dialogLoading">กำลังค้นหา</string>
+    <string name="t08searchcst">ค้นหาลูกค้า</string>
+    <string name="t08cuspoint">แต้มที่ใช้ได้</string>
+    <string name="t08cuscode">รหัส : </string>
+    <string name="t08privilege">รายการสิทธิประโยชน์</string>
+
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t08pdt_store">คลังสินค้า</string>
+    <string name="t08store_code">รหัส</string>
+    <string name="t08store_pdt">สินค้า</string>
+    <string name="t08store_sum">คงเหลือ</string>
+
+</resources>

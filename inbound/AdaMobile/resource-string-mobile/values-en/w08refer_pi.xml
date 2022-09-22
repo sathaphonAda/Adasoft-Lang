@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t08refer_pi">Refer Purchase Invoice</string>
+    <string name="t08pi_no">Pi No.</string>
+    <string name="t08pi_date">Date</string>
+    <string name="t08pi_user">Employee</string>
+
+</resources>

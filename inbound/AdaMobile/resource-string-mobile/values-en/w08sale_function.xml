@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="t08carcode">Car Code</string>
+    <string name="t08carmodel">Model</string>
+    <string name="t08purchasedate">Sale Date</string>
+    <string name="t08CstCarDetail">Customer Car Detail</string>
+    <string name="t08CmfSeaech">Confirm Search Vehicles</string>
+
+    
+</resources>

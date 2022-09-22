@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t09sdb_scan">Key/Scan</string>
+    <string name="t09sdb_name">Card Name</string>
+    <string name="t09sdb_type">Type</string>
+
+    <string name="t09sdb_crdexp">Expire</string>
+    <string name="t09sdb_amount_use">Amount Use</string>
+    <string name="t09sdb_pay">Pay</string>
+    <string name="t09sdb_af_pay">After Pay</string>
+    <string name="t09sdb_crdno">Card no.</string>
+
+    <string name="t09sdb_seq">Seq</string>
+    <string name="t09sdb_list">List</string>
+    <string name="t09sdb_value">Value</string>
+
+    <string name="t09sdb_pay_over">pay amount over</string>
+    <string name="t09sdbamount_notenough">money not enough</string>
+    <string name="t09sdb_key_amtpay">please key amount pay</string>
+    <string name="t09sdb_search_card">please search card</string>
+    <string name="t09sdb_card_notshift">card not shift</string>
+    <string name="t09sdb_card_expire">card is expire</string>
+    <string name="t09sdb_amount_expire">money expire</string>
+    <string name="t09sdb_notfound">card not found!!!</string>
+
+    <string name="t09sdb_isvoid">have refund</string>
+
+</resources>

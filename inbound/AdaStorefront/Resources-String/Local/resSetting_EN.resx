@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tAuthen" xml:space="preserve">
+    <value>Authentication</value>
+  </data>
+  <data name="tConnect" xml:space="preserve">
+    <value>Connect</value>
+  </data>
+  <data name="tConnFail" xml:space="preserve">
+    <value>Connect database fail</value>
+  </data>
+  <data name="tDatabase" xml:space="preserve">
+    <value>Database</value>
+  </data>
+  <data name="tInputPwd" xml:space="preserve">
+    <value>Please input Passcode Complete</value>
+  </data>
+  <data name="tMsgConnDB" xml:space="preserve">
+    <value>Please press 'Connect' button.</value>
+  </data>
+  <data name="tMsgInputPwdDB" xml:space="preserve">
+    <value>Please input password for database</value>
+  </data>
+  <data name="tMsgInputSrvDB" xml:space="preserve">
+    <value>Please input server database</value>
+  </data>
+  <data name="tMsgInputUsrDB" xml:space="preserve">
+    <value>Please input user for database</value>
+  </data>
+  <data name="tMsgSelectNameDB" xml:space="preserve">
+    <value>Please select a database name.</value>
+  </data>
+  <data name="tNameDB" xml:space="preserve">
+    <value>Database name</value>
+  </data>
+  <data name="tPasscode" xml:space="preserve">
+    <value>Enter a Passcode</value>
+  </data>
+  <data name="tPwdIncorrect" xml:space="preserve">
+    <value>Error: Passcode Invalid</value>
+  </data>
+  <data name="tServerDB" xml:space="preserve">
+    <value>Server Database</value>
+  </data>
+  <data name="tSetting" xml:space="preserve">
+    <value>Setting</value>
+  </data>
+  <data name="tUser" xml:space="preserve">
+    <value>User</value>
+  </data>
+  <data name="tClrBrown" xml:space="preserve">
+    <value>Brown</value>
+  </data>
+  <data name="tClrCustom" xml:space="preserve">
+    <value>Custom</value>
+  </data>
+  <data name="tClrDark" xml:space="preserve">
+    <value>Dark Color</value>
+  </data>
+  <data name="tClrGreen" xml:space="preserve">
+    <value>Green</value>
+  </data>
+  <data name="tClrLight" xml:space="preserve">
+    <value>Light Color</value>
+  </data>
+  <data name="tClrNormal" xml:space="preserve">
+    <value>Normal Color</value>
+  </data>
+  <data name="tClrOrange" xml:space="preserve">
+    <value>Orange</value>
+  </data>
+  <data name="tClrPink" xml:space="preserve">
+    <value>Pink</value>
+  </data>
+  <data name="tClrSky" xml:space="preserve">
+    <value>Sky</value>
+  </data>
+  <data name="tTheme" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="tMsgConnMQSuccess" xml:space="preserve">
+    <value>Connect to server MQ success</value>
+  </data>
+  <data name="tMsgSaveSuccess" xml:space="preserve">
+    <value>Save data complete</value>
+  </data>
+  <data name="tTitleMQ" xml:space="preserve">
+    <value>Rabbit MQ</value>
+  </data>
+  <data name="tTitlePasscode" xml:space="preserve">
+    <value>Password Admin</value>
+  </data>
+  <data name="tTitlePosCode" xml:space="preserve">
+    <value>POS Code</value>
+  </data>
+  <data name="tTitlePwdMQ" xml:space="preserve">
+    <value>Password MQ</value>
+  </data>
+  <data name="tTitleSvrMQ" xml:space="preserve">
+    <value>Server MQ</value>
+  </data>
+  <data name="tTitleTestConn" xml:space="preserve">
+    <value>Test Connent</value>
+  </data>
+  <data name="tTitleUsrMQ" xml:space="preserve">
+    <value>User MQ</value>
+  </data>
+  <data name="tTitleVirtualMQ" xml:space="preserve">
+    <value>Virtual MQ</value>
+  </data>
+  <data name="tTitleGrp" xml:space="preserve">
+    <value>Group</value>
+  </data>
+  <data name="tTitleName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="tTitleValue" xml:space="preserve">
+    <value>Value</value>
+  </data>
+  <data name="tGrpPerPage" xml:space="preserve">
+    <value>Group per page</value>
+  </data>
+  <data name="tMenuPerPage" xml:space="preserve">
+    <value>Function per page</value>
+  </data>
+  <data name="tPdtPerPage" xml:space="preserve">
+    <value>Product per page</value>
+  </data>
+  <data name="tShow2ndScreen" xml:space="preserve">
+    <value>Show Ads Screen</value>
+  </data>
+  <data name="tTitleBch" xml:space="preserve">
+    <value>Branch Code</value>
+  </data>
+  <data name="tMsgClosedShift" xml:space="preserve">
+    <value>Please CloseShift before change data</value>
+  </data>
+  <data name="tLastBillR" xml:space="preserve">
+    <value>Last bill R</value>
+  </data>
+  <data name="tLastBillS" xml:space="preserve">
+    <value>Last bill S</value>
+  </data>
+  <data name="tModeStd" xml:space="preserve">
+    <value>Classic</value>
+  </data>
+  <data name="tModeTouch" xml:space="preserve">
+    <value>Touch screen</value>
+  </data>
+  <data name="tTitleMode" xml:space="preserve">
+    <value>Mode windows sale</value>
+  </data>
+  <data name="tMsgPosNotFound" xml:space="preserve">
+    <value>Not found PosCode {0} !!!</value>
+  </data>
+  <data name="tTitleInitSys" xml:space="preserve">
+    <value>Initial System</value>
+  </data>
+  <data name="tMsgInputAPIMaster" xml:space="preserve">
+    <value>Please input Url service API2PSMaster and Save</value>
+  </data>
+  <data name="tMsgInputBch" xml:space="preserve">
+    <value>Please input branch code and Save</value>
+  </data>
+  <data name="tMsgInitSysError" xml:space="preserve">
+    <value>Initial System Error</value>
+  </data>
+  <data name="tMsgInitSysSuccess" xml:space="preserve">
+    <value>Initial System Success</value>
+  </data>
+  <data name="tSuccess" xml:space="preserve">
+    <value>Success</value>
+  </data>
+  <data name="tUnSuccess" xml:space="preserve">
+    <value>Unsuccess</value>
+  </data>
+  <data name="tMsgAskInitSys" xml:space="preserve">
+    <value>Initial the system will adjust all data to be up to date
+Do you want to continue?</value>
+  </data>
+  <data name="tTitleCashier" xml:space="preserve">
+    <value>Cashier</value>
+  </data>
+  <data name="tTitlePosType" xml:space="preserve">
+    <value>POS Type</value>
+  </data>
+  <data name="tTitlePos" xml:space="preserve">
+    <value>Pos</value>
+  </data>
+  <data name="tClearData" xml:space="preserve">
+    <value>Clear master data</value>
+  </data>
+  <data name="tClearDataErr" xml:space="preserve">
+    <value>Clear data error</value>
+  </data>
+  <data name="tClearDataSuc" xml:space="preserve">
+    <value>Clear data success</value>
+  </data>
+  <data name="tMsgAskClearData" xml:space="preserve">
+    <value>Waring! Clear Data will delete all Pos data, Sale data and License data in this Pos.
+Do you want to continue ?</value>
+  </data>
+</root>

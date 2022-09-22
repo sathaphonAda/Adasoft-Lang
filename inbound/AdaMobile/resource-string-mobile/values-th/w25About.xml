@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+    <string name="t25Web" ><a href="https://www.ada-soft.com/">https://www.ada-soft.com/</a></string>
+    <string name="t25Email" ><a href="adapos@ada-soft.com">adapos@ada-soft.com</a></string>
+    <string name="t25name">เกี่ยวกับ</string>
+    <string name="t25adasoft">บริษัท เอด้าซอฟท์ จำกัด</string>
+    <string name="t25copyright">ลิขสิทธิ์© โดย บริษัท เอด้าซอฟท์ จำกัด(2018)</string>
+    <string name="t25regisby">โปรแกรมลงทะเบียนโดย :</string>
+    <string name="t25warning">คำเตือน :</string>
+    <string name="t25protectbylaw">โปรแกรมนี้ได้รับการคุ้มครองตามกฎหมายลิขสิทธิ์</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t05Download">Download</string>
+    <string name="t05Task">Task Name</string>
+    <string name="t05Search">Search</string>
+    <string name="t05checklastsync">Last sync date</string>
+    <string name="t05dwnsearch">Search Task Download</string>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t08product">สินค้า</string>
+    <string name="t08qtycart">จำนวน</string>
+    <string name="t08dischg">ล/ช</string>
+    <string name="t08value">มูลค่า</string>
+    <string name="t08cqty">รายการนี้มีส่วนลดอยู่ หากต้องการเปลี่ยนแปลลงจำนวนสินค้าส่วนลดนี้จะถูกลดทิ้ง ต้องการทำรายการต่อหรือไม่ ?</string>
+    <string name="t08pdtcodecart">รหัสสินค้า</string>
+    <string name="t08pdtnamecart">ชื่อสินค้า</string>
+
+</resources>

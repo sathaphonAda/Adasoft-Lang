@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t09cntotal">Total</string>
+    <string name="t09cntotalpay">Total Pay</string>
+    <string name="t09cntotalamt">Total Amount</string>
+
+    <string name="t09cndocno">DocNo</string>
+    <string name="t09cnpayuse">Amount Used</string>
+    <string name="t09cn_cstsearch">Search Customer</string>
+    <string name="t09cn_docsearch">Key DocNo</string>
+
+</resources>

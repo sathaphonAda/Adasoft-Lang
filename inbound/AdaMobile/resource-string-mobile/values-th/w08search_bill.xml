@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t08pausebill">ค้นคืนพักบิล</string>
+    <string name="t08pb_saleno">เลขที่ขาย</string>
+    <string name="t08pb_seq">ลำดับ</string>
+    <string name="t08pb_date">วันที่</string>
+    <string name="t08pb_customer">ลูกค้า</string>
+
+</resources>

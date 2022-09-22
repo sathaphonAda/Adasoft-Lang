@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t13adjustqty">Adjust Qty</string>
+    <string name="t13qty_last">Last Qty</string>
+    <string name="t13qty_to">Adjust to</string>
+
+</resources>

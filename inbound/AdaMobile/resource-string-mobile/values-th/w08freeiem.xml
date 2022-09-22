@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t08freetitle">รายการฟรี</string>
+    <string name="t08freemsg">ฟรีรายการสินค้า</string>
+    <string name="t08freemsgdetail">ระบบจะปรับราคาเป็น 0 ในรายการที่เลือก คุณยืนยันคำสั่ง?</string>
+</resources>

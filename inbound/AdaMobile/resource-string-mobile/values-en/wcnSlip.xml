@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wcnSlipcloseshift">!!! Close Shift !!!</string>
+    <string name="wcnSlipDate">Date:</string>
+    <string name="wcnSlipPosNo">Pos:</string>
+    <string name="wcnSlipUserCode">User:</string>
+    <string name="wcnSlipprintdate">Print Date : </string>
+    <string name="wcnSlipprinttime">Time : </string>
+    <string name="wcnSlipBankNote">Bank Summary</string>
+    <string name="wcnSlipSale">Sale</string>
+    <string name="wcnSlipShift">Shift</string>
+    <string name="wcnSlipSavePayment">Summary Payment</string>
+
+    
+</resources>

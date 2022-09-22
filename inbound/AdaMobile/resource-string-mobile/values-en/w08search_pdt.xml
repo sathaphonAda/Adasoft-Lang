@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t08search_pdt">Search Product</string>
+    <string name="t08search_pdtcode">Product Code</string>
+    <string name="t08search_pdtname">Product Name</string>
+    <string name="t08search_pdtgrp">Product Group</string>
+    <string name="t08search_pdtbrand">Product Brand</string>
+    <string name="t08search_pdtmodel">Product Model</string>
+
+    <string name="t08search_pdtconfirm">Confirm Search</string>
+    <string name="t08search_tbar">Code/Bar</string>
+    <string name="t08search_tname">Name</string>
+    <string name="t08search_tunit">Unit</string>
+    <string name="t08search_tprice">Price</string>
+
+    <string name="t08titlepdtprice">Check Price</string>
+
+</resources>

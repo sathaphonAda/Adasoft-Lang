@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t08pausebill">Pause Bill</string>
+    <string name="t08pb_saleno">DocNo.</string>
+    <string name="t08pb_seq">Seq</string>
+    <string name="t08pb_date">Date</string>
+    <string name="t08pb_customer">Customer</string>
+
+</resources>

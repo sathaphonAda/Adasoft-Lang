@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t24title">Transfer</string>
+    <string name="t24date">Doc date</string>
+    <string name="t24no">No.</string>
+    <string name="t24reference">Reference</string>
+    <string name="t24fromwah">From</string>
+    <string name="t24towah">To</string>
+    <string name="t24pdtcode">ProductCode</string>
+    <string name="t24unit">Unit</string>
+    <string name="t24amount">Amount</string>
+    <string name="t24billnumber">Bill No</string>
+    <string name="t24saletype">Sales type</string>
+    <string name="t24paymenytype">Payment type</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t22title">รายการสินค้าคงเหลือ</string>
+    <string name="t22warehouse">คลังสินค้า</string>
+    <string name="t22pdtcode">รหัส</string>
+    <string name="t22amount">คงเหลือ</string>
+    <string name="t22pdt">สินค้า</string>
+    <string name="t22search">ค้นหาบิล ขาย/คืน</string>
+    <string name="t22scan">สแกนสินค้า</string>
+</resources>

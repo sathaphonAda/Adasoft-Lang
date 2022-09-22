@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t08pdt_store">Product Store</string>
+    <string name="t08store_code">Code</string>
+    <string name="t08store_pdt">Product</string>
+    <string name="t08store_sum">Total</string>
+
+</resources>

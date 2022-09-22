@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t08product">Product</string>
+    <string name="t08qtycart">Qty</string>
+    <string name="t08dischg">D/C</string>
+    <string name="t08value">Value</string>
+    <string name="t08cqty">This item has an existing product list, if I want to change the quantity of related products will be discarded ?</string>
+    <string name="t08pdtcodecart">Product code</string>
+    <string name="t08pdtnamecart">Product name</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t02Pos">Pos</string>
+    <string name="t02Bch">Branch</string>
+    <string name="t02PassWord">Password</string>
+    <string name="t02API2PSMaster">API2PSMaster</string>
+    <string name="t02API2PSSale">API2PSSale</string>
+    <string name="t02BackOffice">Web BackOffice</string>
+    <string name="t02MenuPage">Menu Per Page</string>
+    <string name="t02PdtPage">Product Per Page</string>
+    <string name="t02GrpPage">Group Per Page</string>
+
+    <string name="t02ColorDark">Primary Color</string>
+    <string name="t02Color">Second Color</string>
+    <string name="t02ColorLight">Light Color</string>
+
+
+    <string-array name="a02color">
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Orange</item>
+        <item>Brown</item>
+        <item>Pink</item>
+    </string-array>
+
+</resources>

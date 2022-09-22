@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t07shiftclose">ปิดรอบ</string>
+    <string name="t07shiftdetail">รายละเอียด</string>
+    <string name="t07lastuser">ผู้ใช้ล่าสุด :</string>
+    <string name="t07shiftcode">รหัสรอบการขาย :</string>
+    <string name="t07signin">ลงชื่อเข้า :</string>
+    <string name="t07signout">ลงชื่อออก :</string>
+    <string name="t07starttime">เวลาเริ่ม :</string>
+
+    <string name="t07seq">ลำดับ.</string>
+    <string name="t07paytype">ประเภทการชำระ</string>
+    <string name="t07amount">ยอดรวม :</string>
+
+    <string name="t07type">ประเภท</string>
+    <string name="t07value">มูลค่า</string>
+    <string name="t07qty">จำนวน</string>
+    <string name="t07amount2">จำนวน</string>
+    <string name="t07titlebank">บันทึกยอดเงินสดตามธนบัตร/เหรียญ</string>
+    <string name="t07titlepayment">บันทึกยอดเงินตามประเภทการรับชำระ</string>
+    <string name="t07banklist">รายการธนบัตร</string>
+    <string name="t07patment">รายการรับชำระ</string>
+
+    <string name="t07amountcash">รวมเงิน</string>
+    <string name="t07amountTotalcash">สรุปยอดเงินสดทั้งหมด</string>
+    <string name="t07RcvTypeSeq">ลำดับประเภทการชำระ</string>
+    <string name="t07totalpayment">ยอดรวมทั้งหมด</string>
+    <string name="t07sumsale">สรุปยอดการขาย </string>
+
+    <string name="t07list">รายการ</string>
+    <string name="t07sequence">ความถี่</string>
+    <string name="t07sale">ยอดขายสินค้า</string>
+    <string name="t07return">ยอดตืนสินค้า</string>
+    <string name="t07round">ยอดปัดเศษ</string>
+
+    <string name="t07amtsale">สรุปยอดขาย</string>
+    <string name="t07amtreturn">สรุปยอดคืน</string>
+    <string name="t07amtDrawer">สรุปยอดเงินในลิ้นชัก</string>
+
+    <string name="t07BillSaleFrom">บิลขาย จาก </string>
+    <string name="t07BillSaleTo">บิลขาย ถึง </string>
+
+    <string name="t07BillReturnFrom">บิลคืน จาก </string>
+    <string name="t07BillReturnTo">บิลคืน ถึง </string>
+
+    <string name="t07ChkHoldBill">มีรายการพักบิลอยู่ หากทำการปิดรอบรายการพักบิลจะถูกลบออก</string>
+
+</resources>

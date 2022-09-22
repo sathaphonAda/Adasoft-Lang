@@ -1,0 +1,1106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tAbout" xml:space="preserve">
+    <value>เกี่ยวกับ</value>
+  </data>
+  <data name="tAll" xml:space="preserve">
+    <value>ทั้งหมด</value>
+  </data>
+  <data name="tAmount" xml:space="preserve">
+    <value>มูลค่า</value>
+  </data>
+  <data name="tBack" xml:space="preserve">
+    <value>ย้อนกลับ</value>
+  </data>
+  <data name="tBarcode" xml:space="preserve">
+    <value>บาร์โค้ด</value>
+  </data>
+  <data name="tCalculate" xml:space="preserve">
+    <value>เครื่องคิดเลข</value>
+  </data>
+  <data name="tCancelTopup" xml:space="preserve">
+    <value>ยกเลิกเติมเงิน</value>
+  </data>
+  <data name="tCashier" xml:space="preserve">
+    <value>พนักงานขาย</value>
+  </data>
+  <data name="tCode" xml:space="preserve">
+    <value>รหัส</value>
+  </data>
+  <data name="tCstCredit" xml:space="preserve">
+    <value>ยอดเครดิต</value>
+  </data>
+  <data name="tCS_HoldBill" xml:space="preserve">
+    <value>!!! พักบิล !!!</value>
+  </data>
+  <data name="tCS_VoidBill" xml:space="preserve">
+    <value>!!! ยกเลิกบิล !!!</value>
+  </data>
+  <data name="tDatetime" xml:space="preserve">
+    <value>วันและเวลา</value>
+  </data>
+  <data name="tDel" xml:space="preserve">
+    <value>ลบ</value>
+  </data>
+  <data name="tDetail" xml:space="preserve">
+    <value>รายละเอียด</value>
+  </data>
+  <data name="tDoc" xml:space="preserve">
+    <value>เอกสาร</value>
+  </data>
+  <data name="tDocNo" xml:space="preserve">
+    <value>หมายเลขเอกสาร</value>
+  </data>
+  <data name="tDownload" xml:space="preserve">
+    <value>ดาวน์โหลด</value>
+  </data>
+  <data name="tExit" xml:space="preserve">
+    <value>ออกจากระบบ</value>
+  </data>
+  <data name="tExpire" xml:space="preserve">
+    <value>วันหมดอายุ</value>
+  </data>
+  <data name="tFactor" xml:space="preserve">
+    <value>จำนวนหน่วย</value>
+  </data>
+  <data name="tFavorite" xml:space="preserve">
+    <value>ชื่นชอบ</value>
+  </data>
+  <data name="tFuncError" xml:space="preserve">
+    <value>ฟังก์ชันการประมวลผลผิดพลาด</value>
+  </data>
+  <data name="tGrpCst" xml:space="preserve">
+    <value>กลุ่มลูกค้า</value>
+  </data>
+  <data name="tHelp" xml:space="preserve">
+    <value>ช่วยเหลือ</value>
+  </data>
+  <data name="tKeyboard" xml:space="preserve">
+    <value>คีบอร์ด</value>
+  </data>
+  <data name="tLockKb" xml:space="preserve">
+    <value>ล็อคหน้าจอ</value>
+  </data>
+  <data name="tMsgAmountZero" xml:space="preserve">
+    <value>กรุณากรอกจำนวนเงินมากกว่า 0 </value>
+  </data>
+  <data name="tMsgCannotCreateDoc" xml:space="preserve">
+    <value>ไม่สามารถสร้างเอกสารได้</value>
+  </data>
+  <data name="tMsgCannotOpen" xml:space="preserve">
+    <value>ไม่มีสิทธิใช้งาน</value>
+  </data>
+  <data name="tMsgCantService" xml:space="preserve">
+    <value>ไม่สามารถติดต่อเว็บเซอร์วิสได้</value>
+  </data>
+  <data name="tMsgClickAccept" xml:space="preserve">
+    <value>กรุณากดปุ่มตรวจบัตรเพื่อตรวจสอบหมายเลขบัตร</value>
+  </data>
+  <data name="tMsgErrCon" xml:space="preserve">
+    <value>ไม่สามารถเชื่อมต่ออินเตอร์เน็ตได้ กรุณาตรวจสอบ</value>
+  </data>
+  <data name="tMsgExit" xml:space="preserve">
+    <value>คุณต้องการออกจากระบบหรือไม่?</value>
+  </data>
+  <data name="tMsgHoldBill" xml:space="preserve">
+    <value>คุณต้องการพักรายการปัจจุบัน หรือไม่?</value>
+  </data>
+  <data name="tMsgInputAmount" xml:space="preserve">
+    <value>กรุณากรอกจำนวนเงิน</value>
+  </data>
+  <data name="tMsgInputUsrPwd" xml:space="preserve">
+    <value>กรุณากรอกชื่อผู้ใช้และรหัสผ่าน</value>
+  </data>
+  <data name="tMsgInputWristband" xml:space="preserve">
+    <value>กรุณากรอกหมายเลขริชแบนด์ / บัตร</value>
+  </data>
+  <data name="tMsgInvalidDate" xml:space="preserve">
+    <value>รูปแบบวันที่ไม่ถูกต้อง</value>
+  </data>
+  <data name="tMsgInvalidUsr" xml:space="preserve">
+    <value>ชื่อผู้ใช้และรหัสผ่านผิด</value>
+  </data>
+  <data name="tMsgInvalidUsrname" xml:space="preserve">
+    <value>ชื่อผู้ใช้ผิด</value>
+  </data>
+  <data name="tMsgLongTime" xml:space="preserve">
+    <value>ระยะเวลาในการเปิดรอบ ต้องอยู่ในช่วง 1 ปีของปัจจุบัน</value>
+  </data>
+  <data name="tMsgNoItem" xml:space="preserve">
+    <value>ไม่มีข้อมูล เพื่อที่จะทำรายการได้</value>
+  </data>
+  <data name="tMsgNoService" xml:space="preserve">
+    <value>ไม่มีที่อยู่ของเว็บเซอร์วิส กรุณาติดต่อผู้ดูแลระบบ</value>
+  </data>
+  <data name="tMsgNotfoundCard" xml:space="preserve">
+    <value>ไม่พบหมายเลขริสแบนด์ / บัตร : {0}</value>
+  </data>
+  <data name="tMsgOpenShift" xml:space="preserve">
+    <value>ไม่สามารถทำรายการขายได้ เนื่องจากมีรอบการขายของผู้ใช้งานท่านอื่นค้างอยู่ (ผู้ใช้ : {0})
+กรุณากด Yes เพื่อปิดรอบการขายก่อนหน้า และเปิดรอบการขายใหม่
+กรุณากด No เพื่อให้ผู้ใช้งานที่เปิดรอบค้างไว้ทำการปิดรอบก่อน</value>
+  </data>
+  <data name="tMsgURLStore" xml:space="preserve">
+    <value>โปรดระบุที่อยู่ของเว็บเซอร์วิสร้านค้า</value>
+  </data>
+  <data name="tMsgVoidBill" xml:space="preserve">
+    <value>คุณต้องการยกเลิกบิลใช่หรือไม่</value>
+  </data>
+  <data name="tMsgWelcome" xml:space="preserve">
+    <value>ยินดีต้อนรับกลับ เข้าสู่การทำงาน</value>
+  </data>
+  <data name="tName" xml:space="preserve">
+    <value>ชื่อ</value>
+  </data>
+  <data name="tOverride" xml:space="preserve">
+    <value>อนุญาตสิทธิ์ใช้งานบนหน้าจอ </value>
+  </data>
+  <data name="tPage" xml:space="preserve">
+    <value>พบ {0} ข้อมูล. หน้า {1} / {2}</value>
+  </data>
+  <data name="tPartField" xml:space="preserve">
+    <value>บางส่วนของข้อความ</value>
+  </data>
+  <data name="tPassword" xml:space="preserve">
+    <value>รหัสผ่าน</value>
+  </data>
+  <data name="tPayment" xml:space="preserve">
+    <value>รวมเงิน</value>
+  </data>
+  <data name="tPdtCode" xml:space="preserve">
+    <value>รหัสสินค้า</value>
+  </data>
+  <data name="tPdtName" xml:space="preserve">
+    <value>ชื่อสินค้า</value>
+  </data>
+  <data name="tPoint" xml:space="preserve">
+    <value>คะแนน</value>
+  </data>
+  <data name="tPos" xml:space="preserve">
+    <value>หมายเลขเครื่อง</value>
+  </data>
+  <data name="tPreview" xml:space="preserve">
+    <value>ตัวอย่างก่อนพิมพ์</value>
+  </data>
+  <data name="tPrice" xml:space="preserve">
+    <value>ราคา</value>
+  </data>
+  <data name="tPrint" xml:space="preserve">
+    <value>พิมพ์</value>
+  </data>
+  <data name="tQty" xml:space="preserve">
+    <value>จำนวน</value>
+  </data>
+  <data name="tQuickAmt" xml:space="preserve">
+    <value>จำนวนสำเร็จรูป</value>
+  </data>
+  <data name="tReason" xml:space="preserve">
+    <value>เหตุผล</value>
+  </data>
+  <data name="tRemark" xml:space="preserve">
+    <value>หมายเหตุ</value>
+  </data>
+  <data name="tSaleDate" xml:space="preserve">
+    <value>วันที่ขาย</value>
+  </data>
+  <data name="tSchBy" xml:space="preserve">
+    <value>ค้นหาโดย</value>
+  </data>
+  <data name="tSchDoc" xml:space="preserve">
+    <value>ค้นหาเอกสาร</value>
+  </data>
+  <data name="tSearch" xml:space="preserve">
+    <value>ค้นหา</value>
+  </data>
+  <data name="tSeq" xml:space="preserve">
+    <value>ลำดับ</value>
+  </data>
+  <data name="tShowKb" xml:space="preserve">
+    <value>ฟังก์ชั่นคีบอร์ด</value>
+  </data>
+  <data name="tSummary" xml:space="preserve">
+    <value>ยอดรวม</value>
+  </data>
+  <data name="tTicket" xml:space="preserve">
+    <value>ตั๋ว</value>
+  </data>
+  <data name="tTopup" xml:space="preserve">
+    <value>เติมเงิน</value>
+  </data>
+  <data name="tTotal" xml:space="preserve">
+    <value>รวมเงิน</value>
+  </data>
+  <data name="tType" xml:space="preserve">
+    <value>ประเภท</value>
+  </data>
+  <data name="tUnit" xml:space="preserve">
+    <value>หน่วย</value>
+  </data>
+  <data name="tUnitName" xml:space="preserve">
+    <value>ชื่อหน่วย</value>
+  </data>
+  <data name="tUsername" xml:space="preserve">
+    <value>ชื่อผู้ใช้</value>
+  </data>
+  <data name="tWholeField" xml:space="preserve">
+    <value>ทั้งหมดของข้อความ</value>
+  </data>
+  <data name="tWristband" xml:space="preserve">
+    <value>ริชแบนด์</value>
+  </data>
+  <data name="tWristbandNo" xml:space="preserve">
+    <value>หมายเลขริชแบนด์ / บัตร</value>
+  </data>
+  <data name="tMsgHaveItem" xml:space="preserve">
+    <value>มีรายการขายบางส่วนคงค้างอยู่ จึงไม่สามารถทำงานฟังก์ชันนี้ได้</value>
+  </data>
+  <data name="tMsgNoData" xml:space="preserve">
+    <value>ไม่มีข้อมูล เพื่อที่จะทำรายการได้</value>
+  </data>
+  <data name="tCS_Amt" xml:space="preserve">
+    <value>มูลค่า</value>
+  </data>
+  <data name="tCS_RcvType" xml:space="preserve">
+    <value>ประเภทการชำระ</value>
+  </data>
+  <data name="tCS_Seq" xml:space="preserve">
+    <value>ลำดับ</value>
+  </data>
+  <data name="tCS_ShiftBNK" xml:space="preserve">
+    <value>ใบส่งเงิน</value>
+  </data>
+  <data name="tCS_ShiftRcv" xml:space="preserve">
+    <value>บันทึก สรุปยอดเงิน</value>
+  </data>
+  <data name="tCS_ShiftSUM" xml:space="preserve">
+    <value>!!! ปิดการขาย !!!</value>
+  </data>
+  <data name="tCS_Receiver" xml:space="preserve">
+    <value>ผู้รับ</value>
+  </data>
+  <data name="tCS_Sender" xml:space="preserve">
+    <value>ผู้ส่ง</value>
+  </data>
+  <data name="tCS_TotalAmt" xml:space="preserve">
+    <value>ยอดรวมทั้งหมด</value>
+  </data>
+  <data name="tBanknote" xml:space="preserve">
+    <value>ใบส่งเงิน</value>
+  </data>
+  <data name="tCurrency" xml:space="preserve">
+    <value>สกุลเงิน</value>
+  </data>
+  <data name="tFreq" xml:space="preserve">
+    <value>ความถี่</value>
+  </data>
+  <data name="tItem" xml:space="preserve">
+    <value>รายการ</value>
+  </data>
+  <data name="tPdtSpcSum" xml:space="preserve">
+    <value>สรุปยอดขายสินค้าควบคุมพิเศษ</value>
+  </data>
+  <data name="tPrintDate" xml:space="preserve">
+    <value>พิมพ์วันที่</value>
+  </data>
+  <data name="tReceiver" xml:space="preserve">
+    <value>ผู้รับ</value>
+  </data>
+  <data name="tRefundFrm" xml:space="preserve">
+    <value>บิลคืน จาก</value>
+  </data>
+  <data name="tRefundTo" xml:space="preserve">
+    <value>บิลคืน ถึง</value>
+  </data>
+  <data name="tSaleFrm" xml:space="preserve">
+    <value>บิลขาย จาก</value>
+  </data>
+  <data name="tSaleSumRpt" xml:space="preserve">
+    <value>รายงานสรุปยอดขาย</value>
+  </data>
+  <data name="tSaleTo" xml:space="preserve">
+    <value>บิลขาย ถึง</value>
+  </data>
+  <data name="tSender" xml:space="preserve">
+    <value>ผู้ส่ง</value>
+  </data>
+  <data name="tShiftCode" xml:space="preserve">
+    <value>เลขที่รอบ</value>
+  </data>
+  <data name="tSumCash" xml:space="preserve">
+    <value>สรุปยอดเงินสดทั้งหมด</value>
+  </data>
+  <data name="tSumCurrency" xml:space="preserve">
+    <value>สรุปการรับชำระเงิน(สกุลเงิน)</value>
+  </data>
+  <data name="tTime" xml:space="preserve">
+    <value>เวลา</value>
+  </data>
+  <data name="tUsr" xml:space="preserve">
+    <value>ผู้ใช้</value>
+  </data>
+  <data name="tCancelBill" xml:space="preserve">
+    <value>ยกเลิกบิล</value>
+  </data>
+  <data name="tHoldBill" xml:space="preserve">
+    <value>พักบิล</value>
+  </data>
+  <data name="tMnyIn" xml:space="preserve">
+    <value>นำเงินเข้า</value>
+  </data>
+  <data name="tMnyOut" xml:space="preserve">
+    <value>นำเงินออก</value>
+  </data>
+  <data name="tOpDrwNoS" xml:space="preserve">
+    <value>เปิดลิ้นชักไม่ขาย</value>
+  </data>
+  <data name="tRefund" xml:space="preserve">
+    <value>ยอดคืน</value>
+  </data>
+  <data name="tRefundAmt" xml:space="preserve">
+    <value>ยอดคืนสินค้า</value>
+  </data>
+  <data name="tSale" xml:space="preserve">
+    <value>ยอดขาย</value>
+  </data>
+  <data name="tSaleAmt" xml:space="preserve">
+    <value>ยอดขายสินค้า</value>
+  </data>
+  <data name="tRefer" xml:space="preserve">
+    <value>อ้างอิงเลขที่</value>
+  </data>
+  <data name="tRefundPdt" xml:space="preserve">
+    <value>! คืนสินค้า !</value>
+  </data>
+  <data name="tCopy" xml:space="preserve">
+    <value>สำเนา</value>
+  </data>
+  <data name="tTaxID" xml:space="preserve">
+    <value>เลขประจำผู้ตัวเสียภาษี</value>
+  </data>
+  <data name="tTaxInvoice" xml:space="preserve">
+    <value>ใบกำกับภาษีอย่างย่อ</value>
+  </data>
+  <data name="tVatExcluded" xml:space="preserve">
+    <value>ภาษีแยกนอก</value>
+  </data>
+  <data name="tVatIncluded" xml:space="preserve">
+    <value>ภาษีรวมใน</value>
+  </data>
+  <data name="tMsg_Col" xml:space="preserve">
+    <value>ช่อง</value>
+  </data>
+  <data name="tMsg_Pdt" xml:space="preserve">
+    <value>สินค้า</value>
+  </data>
+  <data name="tMsg_Pos" xml:space="preserve">
+    <value>เครื่องจุดขาย</value>
+  </data>
+  <data name="tMsg_Qty" xml:space="preserve">
+    <value>จำนวน</value>
+  </data>
+  <data name="tMsg_Row" xml:space="preserve">
+    <value>แถว</value>
+  </data>
+  <data name="tMsgPayConfirm" xml:space="preserve">
+    <value>ดังนั้นคุณต้องการที่จะ รับชำระด้วยยอดทั้งหมดที่เหลือหรือไม่?</value>
+  </data>
+  <data name="tMsgPayMost" xml:space="preserve">
+    <value>จำนวนเงินรับ มากกว่ายอดที่ชำระ, ชำระโดยคูปองเงินสด,เช็ค,แลกแต้ม จะไม่มีเงินทอน</value>
+  </data>
+  <data name="tPdtFree" xml:space="preserve">
+    <value>คุณต้องการจัดสินค้ารายการนี้ เป็นสินค้าฟรีหรือไม่?</value>
+  </data>
+  <data name="tChg" xml:space="preserve">
+    <value>ชาร์จ</value>
+  </data>
+  <data name="tDis" xml:space="preserve">
+    <value>ลด</value>
+  </data>
+  <data name="tMsgChgOver" xml:space="preserve">
+    <value>เงินทอนมีค่าเกินกว่า {0} กรุณาใส่ใหม่</value>
+  </data>
+  <data name="tMsgDisOver" xml:space="preserve">
+    <value>จำนวนเงินส่วนลด เกินกว่าจำนวนเงินรวม ที่สามารถลดได้</value>
+  </data>
+  <data name="tMsgFirstPay" xml:space="preserve">
+    <value>มีการชำระเงินไปแล้วบางส่วน ไม่สามารถทำการลด/ชาร์จได้อีก</value>
+  </data>
+  <data name="tMsgConnUrlSuccess" xml:space="preserve">
+    <value>เชื่อมต่อ URL สำเร็จ</value>
+  </data>
+  <data name="tMsgNotConnUrl" xml:space="preserve">
+    <value>ไม่สามารถเชื่อมต่อ URL ได้</value>
+  </data>
+  <data name="tTitleEdit" xml:space="preserve">
+    <value>แก้ไข URL</value>
+  </data>
+  <data name="tTitleURL" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="tMsgUrlWalletNotDefine" xml:space="preserve">
+    <value>ยังไม่ได้กำหนด URL API2FNWallet</value>
+  </data>
+  <data name="tCpnDis" xml:space="preserve">
+    <value>คูปองส่วนลด</value>
+  </data>
+  <data name="tMsgNotAlwDisAftChg" xml:space="preserve">
+    <value>ไม่สามารถลดเอกสารหลังการชาร์จท้ายบิลได้</value>
+  </data>
+  <data name="tNoAmtDisChg" xml:space="preserve">
+    <value>ไม่มียอดที่สามารถทำรายการ ลด/ชาร์จ ได้</value>
+  </data>
+  <data name="tMsgPosNotDefine" xml:space="preserve">
+    <value>ยังไม่ได้กำหนดเครื่องจุดขาย !!!</value>
+  </data>
+  <data name="tWelcome" xml:space="preserve">
+    <value>ยินดีต้อนรับ</value>
+  </data>
+  <data name="tMsgShiftCheck" xml:space="preserve">
+    <value>กรุณา ระบุยอดเงิน</value>
+  </data>
+  <data name="tMsgUrlARDocNotDefine" xml:space="preserve">
+    <value>ยังไม่ได้กำหนด URL API2ARDoc</value>
+  </data>
+  <data name="tMsgNotChooseCst" xml:space="preserve">
+    <value>ยังไม่ได้เลือกลูกค้า</value>
+  </data>
+  <data name="tMsgShiftDateInvalid" xml:space="preserve">
+    <value>รอบการขายไม่ใช่รอบของวันปัจจุบัน กรุณาปิดรอบการขายเดิมก่อน !!!</value>
+  </data>
+  <data name="tPagePay" xml:space="preserve">
+    <value>หน้า {0} / {1}</value>
+  </data>
+  <data name="tRdDis" xml:space="preserve">
+    <value>แลกแต้มรับส่วนลด</value>
+  </data>
+  <data name="tCpnRd" xml:space="preserve">
+    <value>คูปองแลกซื้อ</value>
+  </data>
+  <data name="tRdPdt" xml:space="preserve">
+    <value>แลกแต้มรับสินค้า</value>
+  </data>
+  <data name="tGetPromotion" xml:space="preserve">
+    <value>โปรโมชั่นที่ได้รับ</value>
+  </data>
+  <data name="tRecomed" xml:space="preserve">
+    <value>โปรโมชั่นแนะนำ</value>
+  </data>
+  <data name="tAddr1" xml:space="preserve">
+    <value>ที่อยู่1</value>
+  </data>
+  <data name="tAddr2" xml:space="preserve">
+    <value>ที่อยู่2</value>
+  </data>
+  <data name="tCardType" xml:space="preserve">
+    <value>ประเภทบัตร</value>
+  </data>
+  <data name="tFilter" xml:space="preserve">
+    <value>กรองข้อมูล</value>
+  </data>
+  <data name="tMsgCantBack" xml:space="preserve">
+    <value>มีการทำรายการค้างอยู่ ไม่สามารถกลับสู่เมนูหลักได้</value>
+  </data>
+  <data name="tMsgDataNotFound" xml:space="preserve">
+    <value>ไม่พบข้อมูล !!!</value>
+  </data>
+  <data name="tCoupon" xml:space="preserve">
+    <value>คูปอง</value>
+  </data>
+  <data name="tPrivilege" xml:space="preserve">
+    <value>สิทธิ์</value>
+  </data>
+  <data name="tChange" xml:space="preserve">
+    <value>เงินทอน</value>
+  </data>
+  <data name="tMsgChkHoldBill" xml:space="preserve">
+    <value>ไม่สามารถปิดรอบการขายได้ เนื่องจากมีรายการพักบิลค้างอยู่ !!!   ต้องการลบรายการพักบิล หรือไม่ ?</value>
+  </data>
+  <data name="tCancelNewPri" xml:space="preserve">
+    <value>ใช้ราคาเดิม</value>
+  </data>
+  <data name="tConfirmNewPri" xml:space="preserve">
+    <value>ยืนยันใช้ราคาใหม่</value>
+  </data>
+  <data name="tTotalNewPri" xml:space="preserve">
+    <value>รวมราคาใหม่</value>
+  </data>
+  <data name="tTotalOldPri" xml:space="preserve">
+    <value>รวมราคาเดิม</value>
+  </data>
+  <data name="tFax" xml:space="preserve">
+    <value>แฟกซ์</value>
+  </data>
+  <data name="tTel" xml:space="preserve">
+    <value>โทรศัพท์</value>
+  </data>
+  <data name="tMsgNotBackSale" xml:space="preserve">
+    <value>ไม่สามารถย้อนกลับไปหน้าขายได้ เนื่องจากมีการยืนยันใช้ราคาใหม่แล้ว</value>
+  </data>
+  <data name="tNewPrice" xml:space="preserve">
+    <value>ราคาใหม่</value>
+  </data>
+  <data name="tOriPrice" xml:space="preserve">
+    <value>ราคาเดิม</value>
+  </data>
+  <data name="tMsgWarnigClear" xml:space="preserve">
+    <value>*เมื่อยืนยันใช้ราคาใหม่ ระบบจะเคลียร์ส่วนลด/ชาร์จรายการออกทั้งหมด</value>
+  </data>
+  <data name="tMsgBillNotComplete" xml:space="preserve">
+    <value>เกิดข้อผิดพลาดจากการขาย กรุณาทำการยกเลิกบิล แล้วทำการขายใหม่</value>
+  </data>
+  <data name="tAmtDis" xml:space="preserve">
+    <value>ส่วนลด/สินค้า</value>
+  </data>
+  <data name="tCardNo" xml:space="preserve">
+    <value>บัตรสมาชิก</value>
+  </data>
+  <data name="tSumRedeem" xml:space="preserve">
+    <value>สรุปการแลกแต้ม รับส่วนลด</value>
+  </data>
+  <data name="tUsePnt" xml:space="preserve">
+    <value>แต้มที่ใช้</value>
+  </data>
+  <data name="tChkPmt" xml:space="preserve">
+    <value>ตรวจสอบโปรโมชั่น</value>
+  </data>
+  <data name="tPay" xml:space="preserve">
+    <value>ชำระเงิน</value>
+  </data>
+  <data name="tAdd" xml:space="preserve">
+    <value>เพิ่ม</value>
+  </data>
+  <data name="tPromotion" xml:space="preserve">
+    <value>โปรโมชั่น</value>
+  </data>
+  <data name="tReceive" xml:space="preserve">
+    <value>รับ</value>
+  </data>
+  <data name="tMsgNotAlwRedeem" xml:space="preserve">
+    <value>ลูกค้าท่านนี้ไม่ได้รับอนุญาตให้ใช้คะแนน !!!</value>
+  </data>
+  <data name="tMsgUrlKADSNotDefine" xml:space="preserve">
+    <value>ยังไม่ได้กำหนด URL API KADS</value>
+  </data>
+  <data name="tMsgAuthNotDefine" xml:space="preserve">
+    <value>ยังไม่ได้กำหนด Authorization</value>
+  </data>
+  <data name="tMsgBchRefIDNotDefine" xml:space="preserve">
+    <value>ไม่มีการกำหนดรหัสอ้างอิงสาขา !!!</value>
+  </data>
+  <data name="tMsgWahRefCodeNotDefine" xml:space="preserve">
+    <value>ไม่มีการกำหนดรหัสอ้างอิงคลังสินค้า !!!</value>
+  </data>
+  <data name="tMsgKubotaIDNotFound" xml:space="preserve">
+    <value>ไม่มีข้อมูล KubotaID !!!</value>
+  </data>
+  <data name="tMsgUrlChkStkNotDefine" xml:space="preserve">
+    <value>ยังไม่ได้กำหนด URL APIKADS Check Stock Online.</value>
+  </data>
+  <data name="tMsgUrlVehicleNotDefine" xml:space="preserve">
+    <value>ยังไม่ได้กำหนด URL APIKADS Vehicle.</value>
+  </data>
+  <data name="tMsgStaPosRegFalse" xml:space="preserve">
+    <value>เครื่องจุดขายนี้ยังไม่ได้ลงทะเบียน หรือการลงทะเบียนของเครื่องจุดขายนี้หมดอายุแล้ว !!!</value>
+  </data>
+  <data name="tMsgStaPosRegistered" xml:space="preserve">
+    <value>ได้รับอนุญาตใช้งานแล้ว{0}รหัสสาขา : {1}รหัสเครื่องจุดขาย : {2}Mac Address No. : {3}วันหมดอายุ : {4}</value>
+  </data>
+  <data name="tMsgDiscPolicyNotAlw" xml:space="preserve">
+    <value>ไม่อนุญาตให้ใช้ส่วนลดนี้ ตามนโยบายส่วนลดที่ตั้งไว้.</value>
+  </data>
+  <data name="tMsgAmtDisAlw" xml:space="preserve">
+    <value>มูลค่าส่วนเกินกว่าจำนวนที่อนุญาตให้ลดได้ !!!</value>
+  </data>
+  <data name="tSlpChange" xml:space="preserve">
+    <value>เงินทอน</value>
+  </data>
+  <data name="tSlpMemCard" xml:space="preserve">
+    <value>หมายเลขบัตรสมาชิก</value>
+  </data>
+  <data name="tSlpMemCode" xml:space="preserve">
+    <value>รหัสสมาชิก</value>
+  </data>
+  <data name="tSlpMemExpire" xml:space="preserve">
+    <value>วันหมดอายุ</value>
+  </data>
+  <data name="tSlpMemLastPt" xml:space="preserve">
+    <value>แต้มเดิม</value>
+  </data>
+  <data name="tSlpMemPmtPt" xml:space="preserve">
+    <value>แต้มโปร.</value>
+  </data>
+  <data name="tSlpMemRegPt" xml:space="preserve">
+    <value>ใช้/ได้รับ</value>
+  </data>
+  <data name="tSlpMemTotalPt" xml:space="preserve">
+    <value>คงเหลือ</value>
+  </data>
+  <data name="tSlpRound" xml:space="preserve">
+    <value>ยอดปัดเศษ</value>
+  </data>
+  <data name="tSlpSubTotal" xml:space="preserve">
+    <value>รวมเงิน</value>
+  </data>
+  <data name="tSlpTotal" xml:space="preserve">
+    <value>ยอดสุทธิ</value>
+  </data>
+  <data name="tSlpUsrName" xml:space="preserve">
+    <value>ชื่อพนักงาน</value>
+  </data>
+  <data name="tSlpVat" xml:space="preserve">
+    <value>ภาษี</value>
+  </data>
+  <data name="tSlpVatable" xml:space="preserve">
+    <value>ก่อนภาษี</value>
+  </data>
+  <data name="tSlpVatIncluded" xml:space="preserve">
+    <value>รวมภาษีมูลค่าเพิ่ม</value>
+  </data>
+  <data name="tRoundRcv" xml:space="preserve">
+    <value>ยอดปัดเศษ</value>
+  </data>
+  <data name="tSumDrw" xml:space="preserve">
+    <value>สรุปยอดเงินในลิ้นชัก</value>
+  </data>
+  <data name="tSumRet" xml:space="preserve">
+    <value>สรุปยอดเงินคืน</value>
+  </data>
+  <data name="tSumSale" xml:space="preserve">
+    <value>สรุปยอดเงินขาย</value>
+  </data>
+  <data name="tMsgErrNotSale" xml:space="preserve">
+    <value>เกิดข้อผิดพลาดไม่สามารถดำเนินการขายต่อได้ กรุณาติดต่อผู้ควบคุมระบบ</value>
+  </data>
+  <data name="tBillList" xml:space="preserve">
+    <value>รายการท้ายบิล</value>
+  </data>
+  <data name="tPdtList" xml:space="preserve">
+    <value>รายการสินค้า</value>
+  </data>
+  <data name="tInformation" xml:space="preserve">
+    <value>ประชาสัมพันธ์</value>
+  </data>
+  <data name="tThanks" xml:space="preserve">
+    <value>ขอบคุณที่มาใช้บริการ</value>
+  </data>
+  <data name="tMsgUrlMasterNotDefine" xml:space="preserve">
+    <value>ยังไม่ได้กำหนด URL API2PSMaster</value>
+  </data>
+  <data name="tMsgPosRegExprie" xml:space="preserve">
+    <value>ทะเบียนใช้งานหมดอายุ กรุณาติดต่อผู้ดูแลระบบ</value>
+  </data>
+  <data name="tMsgPosRegNotMatch" xml:space="preserve">
+    <value>เลขทะเบียนไม่ถูกต้อง กรุณาแจ้งผู้ดูแลระบบ</value>
+  </data>
+  <data name="tMsgPosRegNotRegistered" xml:space="preserve">
+    <value>เครื่องจุดขายนี้ยังไม่ได้ลงทะเบียน กรุณาลงทะเบียน</value>
+  </data>
+  <data name="tPickinglist" xml:space="preserve">
+    <value>ใบหยิบสินค้า</value>
+  </data>
+  <data name="tMsgPosRegistered" xml:space="preserve">
+    <value>เครื่องจุดขายนี้ถูกลงทะเบียนกับ Mac Address อื่นไปแล้ว </value>
+  </data>
+  <data name="tMsgPosRegTokenFmtInvalid" xml:space="preserve">
+    <value>รูปแบบทะเบียนไม่ถูกต้อง</value>
+  </data>
+  <data name="tMsgPosRegWaitApv" xml:space="preserve">
+    <value>ลงทะเบียนแล้วรอการอนุมัติ</value>
+  </data>
+  <data name="tStaChkStk" xml:space="preserve">
+    <value>คลังสินค้าไม่ตรวจสอบสต็อคออนไลน์</value>
+  </data>
+  <data name="tCstCode" xml:space="preserve">
+    <value>รหัสลูกค้า</value>
+  </data>
+  <data name="tMsgCantServiceKADS" xml:space="preserve">
+    <value>ไม่สามารถติดต่อเว็บเซอร์วิสได้ กรุณาติดต่อผู้ดูแลระบบ</value>
+  </data>
+  <data name="tMsgUrlCstSchNotDefine" xml:space="preserve">
+    <value>ยังไม่ได้กำหนด URL API สำหรับค้นหาลูกค้า</value>
+  </data>
+  <data name="tMsgUrlGetTokenNotDefine" xml:space="preserve">
+    <value>ยังไม่ได้กำหนด URL API สำหรับขอ Token</value>
+  </data>
+  <data name="tMsgCantCreateCst" xml:space="preserve">
+    <value>กรุณาค้นหาด้วยเบอร์โทรหรือหมายเลขบัตรประชาชนอื่น</value>
+  </data>
+  <data name="tMsgCardScan" xml:space="preserve">
+    <value>ไม่พบข้อมูลบัตร</value>
+  </data>
+  <data name="tMsgClearDisc" xml:space="preserve">
+    <value>รายการนี้มีส่วนลดอยู่ หากต้องการเปลี่ยนแปลงจำนวนสินค้านี้ ส่วนลดจะถูกลบทิ้ง  ต้องการทำรายการต่อ หรือไม่ ?</value>
+  </data>
+  <data name="tPntPdtFree" xml:space="preserve">
+    <value>ฟรี</value>
+  </data>
+  <data name="tPntPdtVoid" xml:space="preserve">
+    <value>ยกเลิก</value>
+  </data>
+  <data name="tMsgReqReturnBillCode" xml:space="preserve">
+    <value>กรุณากรอกข้อมูล รหัสค้นคืน/เบอร์โทรศัพท์</value>
+  </data>
+  <data name="tReturnBillCode" xml:space="preserve">
+    <value>รหัสค้นคืน</value>
+  </data>
+  <data name="tDisBill" xml:space="preserve">
+    <value>ลดท้ายบิล</value>
+  </data>
+  <data name="tRdDisBill" xml:space="preserve">
+    <value>ลดแลกแต้ม</value>
+  </data>
+  <data name="tSlpCtrName" xml:space="preserve">
+    <value>เลขรถ</value>
+  </data>
+  <data name="tMinimum" xml:space="preserve">
+    <value>ขั้นต่ำ</value>
+  </data>
+  <data name="tMsgSmallBill" xml:space="preserve">
+    <value>ยอดชำระน้อยกว่ายอดชำระขั้นต่ำ ไม่สามารถชำระได้</value>
+  </data>
+  <data name="tMsgTotalPayZero" xml:space="preserve">
+    <value>รับชำระยอดรวมสินค้าเป็นศูนย์</value>
+  </data>
+  <data name="tPriPerSet" xml:space="preserve">
+    <value>ราคาต่อชุด</value>
+  </data>
+  <data name="tQtyPerSet" xml:space="preserve">
+    <value>จำนวนต่อชุด</value>
+  </data>
+  <data name="tSumItems" xml:space="preserve">
+    <value>สรุปรายการ</value>
+  </data>
+  <data name="tStaCrdShift" xml:space="preserve">
+    <value>บัตรยังไม่ได้ทำรายการเบิก</value>
+  </data>
+  <data name="tMsgNoDataVoid" xml:space="preserve">
+    <value>ไม่พบข้อมูลการเติมเงินล่าสุด</value>
+  </data>
+  <data name="tMsgCancelTopup" xml:space="preserve">
+    <value>ไม่สามารถยกเลิกการเติมเงินได้</value>
+  </data>
+  <data name="tMsgPayLast" xml:space="preserve">
+    <value>การรับชำระเงินประเภทนี้ จะต้องเท่ากับยอดที่ค้างทั้งหมดเท่านั้น</value>
+  </data>
+  <data name="tCardHolderID" xml:space="preserve">
+    <value>รหัสพนักงาน</value>
+  </data>
+  <data name="tColOriBal" xml:space="preserve">
+    <value>ยอดเดิม</value>
+  </data>
+  <data name="tColRetAmt" xml:space="preserve">
+    <value>ยอดคืน</value>
+  </data>
+  <data name="tItemRetAmt" xml:space="preserve">
+    <value>รายการคืนเงิน</value>
+  </data>
+  <data name="tMsgStaCrdExpire" xml:space="preserve">
+    <value>บัตรหมดอายุ</value>
+  </data>
+  <data name="tMsgStaCrdFail" xml:space="preserve">
+    <value>ไม่สำเร็จ</value>
+  </data>
+  <data name="tMsgStaCrdIsCancel" xml:space="preserve">
+    <value>รายการถูกยกเลิกแล้ว</value>
+  </data>
+  <data name="tMsgStaCrdLossAmt" xml:space="preserve">
+    <value>ยอดเงินไม่พอ</value>
+  </data>
+  <data name="tMsgStaCrdNoItemCancel" xml:space="preserve">
+    <value>ไม่พบรายการที่จะยกเลิก</value>
+  </data>
+  <data name="tMsgStaCrdNotFound" xml:space="preserve">
+    <value>ไม่พบข้อมูลบัตร</value>
+  </data>
+  <data name="tMsgStaCrdSuccess" xml:space="preserve">
+    <value>สำเร็จ</value>
+  </data>
+  <data name="tMsgCrdAmtExp" xml:space="preserve">
+    <value>ยอดเงินในบัตรหมดอายุ</value>
+  </data>
+  <data name="tStaMifareNotReady" xml:space="preserve">
+    <value>เครื่องอ่านบัตรไม่พร้อมใช้งาน</value>
+  </data>
+  <data name="tStaMifareReady" xml:space="preserve">
+    <value>เครื่องอ่านบัตรพร้อมใช้งาน</value>
+  </data>
+  <data name="tMsgAmtNotPayRefund" xml:space="preserve">
+    <value>ไม่มียอดที่สามารถคืนเงินประเภทนี้ได้</value>
+  </data>
+  <data name="tMsgPayRefund" xml:space="preserve">
+    <value>การคืนเงินประเภทนี้ ยอดทีสามารถคืนได้ต้องไม่มากกว่า {0}</value>
+  </data>
+  <data name="tMsgItemsAlready" xml:space="preserve">
+    <value>รายการมีอยู่แล้ว</value>
+  </data>
+  <data name="tMsgBarcodeAlready" xml:space="preserve">
+    <value>สินค้านี้มีบาร์โค้ดนี้แล้ว</value>
+  </data>
+  <data name="tMsgReqPdtName" xml:space="preserve">
+    <value>ยังไม่ได้กำหนดชื่อสินค้า</value>
+  </data>
+  <data name="tMsgReqUnit" xml:space="preserve">
+    <value>ยังไม่ได้เลือกหน่วยสินค้า</value>
+  </data>
+  <data name="tMsgReqUnitFactor" xml:space="preserve">
+    <value>ยังไม่ได้กำหนดขนาดของหน่วยสินค้า</value>
+  </data>
+  <data name="tMsgUnitAlready" xml:space="preserve">
+    <value>สินค้านี้มีหน่วยสินค้านี้อยู่แล้ว</value>
+  </data>
+  <data name="tMsgPdtAlready" xml:space="preserve">
+    <value>สินค้านี้มีอยูในรายการรอการส่งเพิ่มที่ระบบแล้ว</value>
+  </data>
+  <data name="tMsgFactorAlready" xml:space="preserve">
+    <value>ขนาด/หน่วย มีอยู่แล้ว</value>
+  </data>
+  <data name="tMsgTimeout" xml:space="preserve">
+    <value>หมดเวลาการเชื่อมต่อ</value>
+  </data>
+  <data name="tMsgUnitAlreadyButSizeNotEqual" xml:space="preserve">
+    <value>หน่วย มีอยู่แล้ว! ขนาดที่กำหนดต้องเท่ากับ ขนาด/หน่วย ที่มีอยู่</value>
+  </data>
+  <data name="tMsgUrlCNMasterNotDefine" xml:space="preserve">
+    <value>ยังไม่ได้กำหนด URL API2CNMaster</value>
+  </data>
+  <data name="tMstSaveSuccess" xml:space="preserve">
+    <value>บันทึกข้อมูลสำเร็จ</value>
+  </data>
+  <data name="tMstSaveUnSuccess" xml:space="preserve">
+    <value>บันทึกข้อมูลไม่สำเร็จ</value>
+  </data>
+  <data name="tMsgAskUseNewPrice" xml:space="preserve">
+    <value>หน่วยนี้มีราคาอยู่แล้ว!  หากเปลี่ยนราคา บาร์โค้ดภายใต้หน่วยนี้จะถูกเปลี่ยนราคาตามด้วย ต้องการดำเนินการต่อ หรือไม่ ?</value>
+  </data>
+  <data name="tMsgReqBarcode" xml:space="preserve">
+    <value>ยังไม่ได้กำหนดบาร์โค้ดของสินค้า</value>
+  </data>
+  <data name="tMsgEvenError" xml:space="preserve">
+    <value>เกิดเหตุการณ์ ดังนี้</value>
+  </data>
+  <data name="tForgotPassword" xml:space="preserve">
+    <value>ลืมรหัสผ่าน</value>
+  </data>
+  <data name="tTitlePreviewSlip" xml:space="preserve">
+    <value>ตัวอย่างใบเสร็จ</value>
+  </data>
+  <data name="tMax" xml:space="preserve">
+    <value>สูงสุด</value>
+  </data>
+  <data name="tMin" xml:space="preserve">
+    <value>ต่ำสุด</value>
+  </data>
+  <data name="tMsgAskContinue" xml:space="preserve">
+    <value>ต้องการทำรายการต่อหรือไม่?</value>
+  </data>
+  <data name="tMsgNoContinue" xml:space="preserve">
+    <value>ไม่อนุญาตให้ทำรายการต่อ</value>
+  </data>
+  <data name="tTitleErrLimit" xml:space="preserve">
+    <value>เกินลิมิต</value>
+  </data>
+  <data name="tTitleWrnLimit" xml:space="preserve">
+    <value>แจ้งเตือนลิมิต</value>
+  </data>
+  <data name="tMsgCstKeyNotDefine" xml:space="preserve">
+    <value>ไม่พบรหัสลูกค้า</value>
+  </data>
+  <data name="tColor" xml:space="preserve">
+    <value>สี</value>
+  </data>
+  <data name="tSize" xml:space="preserve">
+    <value>ขนาด</value>
+  </data>
+  <data name="tSlipItems" xml:space="preserve">
+    <value>รายการ</value>
+  </data>
+  <data name="tSlipQtyItem" xml:space="preserve">
+    <value>รายการสินค้าทั้งหมด</value>
+  </data>
+  <data name="tMsgRefFullTax" xml:space="preserve">
+    <value>เอกสารนี้ถูกนำไปออกใบกำกับภาษีเต็มรูปแล้ว</value>
+  </data>
+  <data name="tMsgWeightCtnOver" xml:space="preserve">
+    <value>น้ำหนักภาชนะเกินกว่าน้ำหนักรวม</value>
+  </data>
+  <data name="tMsgNotAlwPriZero" xml:space="preserve">
+    <value>ไม่สามารถขายสินค้ารายการนี้ได้ เนื่องจากไม่อนุญาตให้ขายสินค้าราคาเป็นศูนย์</value>
+  </data>
+  <data name="tMsgPdtIsZeroPrice" xml:space="preserve">
+    <value>สินค้ารายการนี้ ราคาขาย เท่ากับ ศูนย์ คุณยืนยันที่จะขายสินค้าด้วยราคาศูนย์บาทหรือไม่ ?</value>
+  </data>
+  <data name="tWarnResetPrint" xml:space="preserve">
+    <value>คุณต้องการแก้ไขให้เป็นเอกสารต้นฉบับใช่หรือไม่</value>
+  </data>
+  <data name="tTitleResetPrint" xml:space="preserve">
+    <value>เอกสารต้นฉบับ</value>
+  </data>
+  <data name="tApproved" xml:space="preserve">
+    <value>อนุมัติแล้ว</value>
+  </data>
+  <data name="tCancel" xml:space="preserve">
+    <value>ยกเลิก</value>
+  </data>
+  <data name="tCst" xml:space="preserve">
+    <value>ลูกค้า</value>
+  </data>
+  <data name="tDocStatus" xml:space="preserve">
+    <value>สถานะ</value>
+  </data>
+  <data name="tFileAttach" xml:space="preserve">
+    <value>ไฟล์แนบ</value>
+  </data>
+  <data name="tFileAttachInfo" xml:space="preserve">
+    <value>ข้อมูลไฟล์แนบ</value>
+  </data>
+  <data name="tMsgFileAttachOver" xml:space="preserve">
+    <value>ไฟล์แนบมีขนาดเกิน {0} MB</value>
+  </data>
+  <data name="tPdtGeneral" xml:space="preserve">
+    <value>สินค้าทั่วไป</value>
+  </data>
+  <data name="tPdtMaintenance" xml:space="preserve">
+    <value>รายการซ่อมบำรุง</value>
+  </data>
+  <data name="tQuotation" xml:space="preserve">
+    <value>ใบเสนอราคา</value>
+  </data>
+  <data name="tRefDocInfo" xml:space="preserve">
+    <value>ข้อมูลอ้างอิงเอกสาร</value>
+  </data>
+  <data name="tRefExt" xml:space="preserve">
+    <value>อ้างอิงเอกสารภายนอก</value>
+  </data>
+  <data name="tTitleDocDate" xml:space="preserve">
+    <value>วันที่เอกสาร</value>
+  </data>
+  <data name="tTitleDocDate1" xml:space="preserve">
+    <value>วันที่เอกสาร</value>
+  </data>
+  <data name="tTitleDocNo" xml:space="preserve">
+    <value>เลขที่เอกสาร</value>
+  </data>
+  <data name="tTitleNewDoc" xml:space="preserve">
+    <value>เริ่มเอกสารใหม่</value>
+  </data>
+  <data name="tWarnNewDoc" xml:space="preserve">
+    <value>ต้องการเริ่มต้นเอกสารใหม่ ใช่หรือไม่ ?</value>
+  </data>
+</root>

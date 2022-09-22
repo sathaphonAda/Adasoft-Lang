@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t25Web" ><a href="https://www.ada-soft.com/">https://www.ada-soft.com/</a></string>
+    <string name="t25Email" ><a href="adapos@ada-soft.com">adapos@ada-soft.com</a></string>
+    <string name="t25name">About</string>
+
+    <string name="t25adasoft">Adasoft</string>
+    <string name="t25copyright">Copyright© by Adasoft Co,. Ltd (2018)</string>
+    <string name="t25regisby">This program is register by :</string>
+    <string name="t25warning">Warning :</string>
+    <string name="t25protectbylaw">This program is protected by copyright law.</string>
+
+</resources>

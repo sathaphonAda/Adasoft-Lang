@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t22title">Inventory list</string>
+    <string name="t22warehouse">WareHouse</string>
+    <string name="t22pdtcode">Product Code</string>
+    <string name="t22amount">Amount</string>
+    <string name="t22pdt">Product</string>
+    <string name="t22search">Search sale/return</string>
+    <string name="t22scan">Scan</string>
+</resources>

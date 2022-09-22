@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t11return_bill">Return Bill</string>
+    <string name="t11referbill">Refer Bill</string>
+    <string name="t11saledate">Sale Date</string>
+    <string name="t11saledocno">DocNo</string>
+
+    <string name="t11value">Value</string>
+    
+    <string name="t11product">Product</string>
+    <string name="t11unit">Unit</string>
+    <string name="t11qty">Qty</string>
+
+    <string name="t11reacode">Code</string>
+    <string name="t11reaname">Reason</string>
+    <string name="t11notallowreturn">Return is not allowed</string>
+    <string name="t11notfounditem">This Bill has refunded !!!</string>
+    <string name="t11refund">Refund items</string>
+    <string name="t11refer">Refer items</string>
+    <string name="t11searchbill">Search bill</string>
+    <string name="t11searcreason">Search reason</string>
+    <string name="t11selectproduct">Select Product</string>
+    <string name="t11notfound">Not found Customer</string>
+    <string name="t11filldoc">Please enter Doc Number</string>
+    <string name="t11notFoundBill">Not Found Bill !!!</string>
+    <string name="t11billhasrefer">This bill has been refered !!!</string>
+    <string name="t11billhasrefun">This bill has been refuned  !!!</string>
+    <string name="t11notfoundinwah">Can not Return item is not in warehouse !!!</string>
+
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t03Version">Version : 1.05.00 (190)</string>
+    <string name="t03ShiftOpen">Shift Open</string>
+    <string name="t03ShiftClose">Shift Close</string>
+    <string name="t03TopUp">Top-Up</string>
+    <string name="t03CancelTopUp">Cancel Top-Up</string>
+    <string name="t03TradeWristband">Trade Wristband</string>
+    <string name="t03Ticket">Ticket</string>
+    <string name="t03Deposit">Deposit</string>
+    <string name="t03Withdraw">Withdraw</string>
+    <string name="t03OpenDrawer">Open Drawer</string>
+    <string name="t03TaxInvoice">Tax Invoice</string>
+    <string name="t03Reprint">Reprint</string>
+    <string name="t03DownloadOrUp">Download/Upload</string>
+    <string name="t03SpotCheck">Spot Check</string>
+    <string name="t03BackOffice">Back Office</string>
+    <string name="t03User">User</string>
+    <string name="t03Logout">Log out</string>
+
+    <string name="t03Home">Home</string>
+    <string name="t03Dashboard">Dashboard</string>
+    <string name="t03Manual">Manual</string>
+    <string name="t03About">About</string>
+    <string name="t03Setting">Setting</string>
+    <string name="t03Exit">Exit</string>
+
+    <string name="t03Adasoft">Adasoft Co.,Ltd</string>
+    <string name="t03Day">Monday&#8211;Friday</string>
+    <string name="t03DayTime">8:30&#8211;17:30</string>
+    <string name="t03Location">26/5&#8211;8 Soi Ladprao83 (Chit Ari) Ladprao Rd.
+        Khlong Chaokhun Sing, Wangthonglang Bangkok 10310</string>
+    <string name="t03Phone1">+662&#8211;5301681 (Auto)</string>
+    <string name="t03Phone2">+668&#8211;63360724&#8211;255 </string>
+    <string name="t03Phone3">+662&#8211;5301681 Ext.1109 </string>
+    <string name="t03Auto">Office</string>
+    <string name="t03Hotline">Hotline</string>
+    <string name="t03Fax">Fax</string>
+    <string name="t03EmailText">info@ada-soft.com</string>
+    <string name="t03Software">Software detail</string>
+    <string name="t03LicenseSta">License Status : - </string>
+    <string name="t03SysVersion">System version : 1.05.00(190)</string>
+    <string name="t03UsrDetail">User detail</string>
+    <string name="t03Email">Email :</string>
+
+    <string name="t03start">Start</string>
+    <string name="t03stop">Stop</string>
+    <string name="t03expire">Expire</string>
+</resources>

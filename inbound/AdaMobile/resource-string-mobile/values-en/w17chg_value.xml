@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t17chg_percent">Charge Value</string>
+    <string name="t17value_b4chg">Value Before Charge</string>
+    <string name="t17value_afchg">Value After Charge</string>
+
+</resources>

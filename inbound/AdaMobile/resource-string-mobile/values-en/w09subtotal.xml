@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t09seq">Seq</string>
+    <string name="t09detail">Detail</string>
+    <string name="t09amount">Amount</string>
+    <string name="t09cash">Cash</string>
+    <string name="t09total">Total</string>
+    <string name="t09billdis">Bill Discount</string>
+    <string name="t09netsale">Net Sale</string>
+    <string name="t09amounttender">Amount Tendered</string>
+    <string name="t09cashrnd">Cash rounding</string>
+    <string name="t09list">List</string>
+    <string name="t09promtpay">Promptpay</string>
+    <string name="t09credit">Credit Card</string>
+    <string name="t09pay">Pay</string>
+    <string name="t09balance">Balance</string>
+    <string name="t09pickinglist">Picking List</string>
+    
+    <string name="t09please_scan_promptpay">Please Scan Qr Before Time out</string>
+
+    <string name="t09cardno">Card No.</string>
+    <string name="t09bankname">Bank</string>
+    <string name="t09cardtype">Card Type</string>
+
+    <string name="t09enable_dis">Value Enable Discount</string>
+    <string name="t09coupon_no">Coupon no.</string>
+    <string name="t09coupon_dis">Discount %</string>
+    <string name="t09value_dis">Value Discount</string>
+    
+    <string name="t09pnt_available">Available Point</string>
+    <string name="t09pnt_value">Point</string>
+    <string name="t09pnt_dis">Value Discount</string>
+    <string name="t09pnt_lowrate">Low Rate</string>
+    
+    <string name="t09pmt_seq">Detail</string>
+    <string name="t09pmt_promotion">Promotion</string>
+    <string name="t09pmt_promotionreq">Promotion(Recommend)</string>
+    <string name="t09pmt_qty">Set</string>
+    <string name="t09pmt_discount">Disc</string>
+    <string name="t09pmt_privillege">Privillenge</string>
+    <string name="t09pmt_point">Point</string>
+    <string name="t09pmt_add">Add</string>
+    <string name="t09Change">Change</string>
+
+    <string name="t09pmt_dis">Disc</string>
+    <string name="t09pmt_edit">Edit Quota</string>
+    <string name="t09pmt_qtymax">Limit</string>
+    <string name="t09pmt_detail">Promotion Detail</string>
+
+    <string name="t09coupon_amounttext">Amount</string>
+    <string name="t09coupon_plsentercoupon">Please enter coupon</string>
+    <string name="t09coupon_dateused">Date</string>
+    <string name="t09coupon_timeused">Time</string>
+    <string name="t09coupon_condition">Condition</string>
+    <string name="t09coupon_values">Coupon value</string>
+    <string name="t09coupon_cash">Cash coupons</string>
+    <string name="t09coupon_discount">Discount coupons</string>
+    <string name="t09coupon_notfoundorhasused">Not found coupon or coupon has used</string>
+    <string name="t09coupon_couponNo">Coupon No</string>
+    <string name="t09coupon_name">Name</string>
+    <string name="t09coupon_msg1">Message1</string>
+    <string name="t09coupon_msg2">Message2</string>
+    <string name="t09coupon_fromdate">From Date</string>
+    <string name="t09coupon_todate">To Date</string>
+    <string name="t09coupon_selectcondition">Condition</string>
+    <string name="t09coupon_value">Value</string>
+    <string name="t09coupon_detail">Detail</string>
+    <string name="t09coupon_select">Please Select Item</string>
+    <string name="t09coupon_redeem">Redeem coupons</string>
+
+    <string name="t09stapay_cancel">Have some payment. Can\'t Back</string>
+
+</resources>

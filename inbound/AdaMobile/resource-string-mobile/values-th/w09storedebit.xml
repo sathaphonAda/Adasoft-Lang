@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t09sdb_scan">คีย์/สแกน</string>
+    <string name="t09sdb_name">ชื่อบัตร</string>
+    <string name="t09sdb_type">ประเภท</string>
+
+    <string name="t09sdb_crdexp">วันหมดอายุ</string>
+    <string name="t09sdb_amount_use">ยอดที่ใช้ได้</string>
+    <string name="t09sdb_pay">ยอดชำระ/ตัดจ่าย</string>
+    <string name="t09sdb_af_pay">ยอดหลังชำระ</string>
+    <string name="t09sdb_crdno">หมายเลขบัตร</string>
+
+    <string name="t09sdb_seq">ลำดับ</string>
+    <string name="t09sdb_list">รายการ</string>
+    <string name="t09sdb_value">มูลค่า</string>
+
+    <string name="t09sdb_pay_over">ยอดชำระเกินจำนวน</string>
+    <string name="t09sdbamount_notenough">จำนวนเงินไม่พอ</string>
+    <string name="t09sdb_key_amtpay">กรุณาระบุยอดที่ต้องการชำระ</string>
+    <string name="t09sdb_search_card">กรุณาค้นหาการ์ด</string>
+    <string name="t09sdb_card_notshift">การ์ดยังไม่ได้ทำรายการเบิก</string>
+    <string name="t09sdb_card_expire">การ์ดหมดอายุ</string>
+    <string name="t09sdb_amount_expire">เงินในการ์ดหมดอายุ</string>
+    <string name="t09sdb_notfound">ไม่พบข้อมูลการ์ด</string>
+
+    <string name="t09sdb_isvoid">มีการทำรายการคืนแล้ว</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="t08checkprice">Check Price</string>
+    <string name="t08head_pdtcode">รหัสสินค้า : </string>
+    <string name="t08head_pdtname">ชื่อสินค้า : </string>
+    <string name="t08head_pdtunit">ชื่อหน่วย : </string>
+    <string name="t08head_pdtpi">ใบปรับราคา : </string>
+    <string name="t08head_start">วันที่มีผล : </string>
+    <string name="t08head_pdtprice">ราคา : </string>
+    <string name="t08head_bln">ยอดคงเหลือ : </string>
+
+    <string name="t08chk_pmtcode">รหัสโปรโมชั่น</string>
+    <string name="t08chk_pmtname">ชื่อ</string>
+    <string name="t08chk_datesatrt">วันที่เริ่ม</string>
+    <string name="t08chk_datestop">วันที่สิ้นสุด</string>
+</resources>

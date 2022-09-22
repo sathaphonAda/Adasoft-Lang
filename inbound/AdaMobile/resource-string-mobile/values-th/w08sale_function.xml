@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="t08carcode">เลขรถ</string>
+    <string name="t08carmodel">รุ่นรถ</string>
+    <string name="t08purchasedate">วันที่ขาย</string>
+    <string name="t08CstCarDetail">ข้อมูลรถลูกค้า</string>
+    <string name="t08CmfSeaech">ยืนยันการค้นหารถ</string>
+    
+</resources>

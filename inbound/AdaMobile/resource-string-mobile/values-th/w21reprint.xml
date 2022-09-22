@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t21title">พิมพ์ซ้ำ</string>
+
+    <string-array name="a21Type">
+        <item>ทั้งหมด</item>
+        <item>ขาย</item>
+        <item>คืน</item>
+    </string-array>
+
+</resources>

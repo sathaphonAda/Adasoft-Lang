@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tAvailable" xml:space="preserve">
+    <value>Available</value>
+  </data>
+  <data name="tBalance" xml:space="preserve">
+    <value>Balance</value>
+  </data>
+  <data name="tCancel" xml:space="preserve">
+    <value>Cancel Top-Up</value>
+  </data>
+  <data name="tCancelAmt" xml:space="preserve">
+    <value>Cancel Amount</value>
+  </data>
+  <data name="tCardName" xml:space="preserve">
+    <value>Card Name</value>
+  </data>
+  <data name="tCardNo" xml:space="preserve">
+    <value>Card No.</value>
+  </data>
+  <data name="tCardType" xml:space="preserve">
+    <value>Card Type</value>
+  </data>
+  <data name="tCmdCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="tCmdConfirm" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="tCmdNo" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="tColAmt" xml:space="preserve">
+    <value>Amount</value>
+  </data>
+  <data name="tColBalan" xml:space="preserve">
+    <value>Balance</value>
+  </data>
+  <data name="tColDetail" xml:space="preserve">
+    <value>Detail</value>
+  </data>
+  <data name="tDeposit" xml:space="preserve">
+    <value>Deposit</value>
+  </data>
+  <data name="tExp" xml:space="preserve">
+    <value>Date Expire</value>
+  </data>
+  <data name="tHistory" xml:space="preserve">
+    <value>History</value>
+  </data>
+  <data name="tMsgCantBack" xml:space="preserve">
+    <value>Can not back if there are some items in bill</value>
+  </data>
+  <data name="tMsgCrdCancel" xml:space="preserve">
+    <value>Cannot perform the transaction due to the card is canceled.</value>
+  </data>
+  <data name="tMsgCrdExp" xml:space="preserve">
+    <value>Cannot perform the transaction due to the card is expired.</value>
+  </data>
+  <data name="tMsgCrdInactive" xml:space="preserve">
+    <value>Cannot perform the transaction due to the card is inactive.</value>
+  </data>
+  <data name="tMsgCrdValueExp" xml:space="preserve">
+    <value>The amount in the card has expired.
+Please press "OK" to clear card balance and then top-up
+Or press "Cancel" to cancel the top-up.</value>
+  </data>
+  <data name="tName" xml:space="preserve">
+    <value>Wristband Name / Card Name</value>
+  </data>
+  <data name="tNo" xml:space="preserve">
+    <value>Wristband No. / Card No.</value>
+  </data>
+  <data name="tPayment" xml:space="preserve">
+    <value>Payment</value>
+  </data>
+  <data name="tPdtDeposit" xml:space="preserve">
+    <value>Deposit Products</value>
+  </data>
+  <data name="tQty" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="tQtyUnit" xml:space="preserve">
+    <value>Items</value>
+  </data>
+  <data name="tQuick" xml:space="preserve">
+    <value>Quick Amount</value>
+  </data>
+  <data name="tReceived" xml:space="preserve">
+    <value>Received Amount</value>
+  </data>
+  <data name="tStaCrdType" xml:space="preserve">
+    <value>Card type does not meet the conditions</value>
+  </data>
+  <data name="tTitleColBalance" xml:space="preserve">
+    <value>Balance</value>
+  </data>
+  <data name="tTitleColBeforeBal" xml:space="preserve">
+    <value>Before Balance</value>
+  </data>
+  <data name="tTitleColBeforePay" xml:space="preserve">
+    <value>Before Payment</value>
+  </data>
+  <data name="tTitleColCardNo" xml:space="preserve">
+    <value>Card No.</value>
+  </data>
+  <data name="tTitleColCashier" xml:space="preserve">
+    <value>Cashier</value>
+  </data>
+  <data name="tTitleColDate" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="tTitleColPay" xml:space="preserve">
+    <value>Payment</value>
+  </data>
+  <data name="tTitleColPromo" xml:space="preserve">
+    <value>Promotion</value>
+  </data>
+  <data name="tTitleColReturn" xml:space="preserve">
+    <value>Refund</value>
+  </data>
+  <data name="tTitleColSeq" xml:space="preserve">
+    <value>No.</value>
+  </data>
+  <data name="tTitleColShop" xml:space="preserve">
+    <value>Shop</value>
+  </data>
+  <data name="tTitleColTopup" xml:space="preserve">
+    <value>Topup</value>
+  </data>
+  <data name="tTitleColTotal" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="tTitleColTotalBalance" xml:space="preserve">
+    <value>Total Balance</value>
+  </data>
+  <data name="tTitleColType" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="tTitleColValue" xml:space="preserve">
+    <value>Value</value>
+  </data>
+  <data name="tTitleColVoidPromo" xml:space="preserve">
+    <value>Void Promotion</value>
+  </data>
+  <data name="tTitleColVoidTopup" xml:space="preserve">
+    <value>Void Topup</value>
+  </data>
+  <data name="tTitleVoidTopupL" xml:space="preserve">
+    <value>Void topup</value>
+  </data>
+  <data name="tTopup" xml:space="preserve">
+    <value>Top-Up</value>
+  </data>
+  <data name="tTotal" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="tValue" xml:space="preserve">
+    <value>Wristband Value / Card Value</value>
+  </data>
+</root>

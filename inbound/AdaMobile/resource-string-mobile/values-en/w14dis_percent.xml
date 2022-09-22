@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="t14dis_percent">Discount %</string>
+    <string name="t14value_b4dis">Value Before Discount</string>
+    <string name="t14value_afdis">Value After Discount</string>
+    
+</resources>

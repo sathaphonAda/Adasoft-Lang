@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="t08seq">ลำดับ</string>
+    <string name="t08barcode">บาร์โค้ด</string>
+    <string name="t08pdtname">ชื่อสินค้า</string>
+    <string name="t08qty">จำนวน</string>
+    <string name="t08unit">หน่วย</string>
+    <string name="t08price">ราคา</string>
+    <string name="t08dis">ส่วนลด.</string>
+    <string name="t08summary">รวม</string>
+    <string name="t08qty2">จำนวน :</string>
+    <string name="t08total">รวมเงิน</string>
+    <string name="t08subtotal">รวมเงิน</string>
+    <string name="t08page">หน้า</string>
+    <string name="t08saledoc">เลขที่เอกสาร :</string>
+
+    <string name="t08cannotpay">ไม่มีข้อมูล เพื่อที่จะทำรายการได้</string>
+
+    <string name="t08search">ค้นหา</string>
+    <string name="t08cstcode2sale">CstCode</string>
+    <string name="t08cstnamesale">Name</string>
+    <string name="t08csttelsale">Tel.</string>
+    <string name="t08cstmember">Member Card</string>
+    <string name="t08cstcard">Card ID</string>
+    <string name="t08schbyname">Search By Name</string>
+    <string name="t08schbycstcode">Search By CstCode</string>
+    <string name="t08schbytax">Search By Tax No.</string>
+    <string name="t08schbyphone">Search By Phone Number</string>
+    <string name="t08schbymem">Search By Member Card</string>
+    <string name="t08schbyid">Search By Card ID</string>
+
+    <string name="t08remark">หมายเหตุ</string>
+
+    <string name="t08dispercent">Discount percent</string>
+    <string name="t08beforedis">Before discount percent</string>
+    <string name="t08amount">Amount</string>
+    <string name="t08afterdis">After discount percent</string>
+
+    <string name="t08returnsale">Return Sale</string>
+    <string name="t08referbill">Refer to bill</string>
+    <string name="t08docno">Document No.</string>
+
+    <string name="t08promotion">โปรโมชั่น</string>
+    <string name="t08prodis">ส่วนลด</string>
+    <string name="t08propermiss">สิทธิ์/คูปอง</string>
+    <string name="t08propoint">คะแนน</string>
+    <string name="t08prolist">รายการ</string>
+    <string name="t08proadd">เพิ่ม</string>
+    <string name="t08chkpromotion">ตรวจสอบโปรโมชั่นใหม่</string>
+    <string name="t08proreceive">รับ</string>
+
+    <string name="t08customer">ลูกค้า :</string>
+    <string name="t08cstpoint">แต้ม :</string>
+    <string name="t08generalcst">ลูกค้าทั่วไป</string>
+
+    <string name="t08title">สแกนสินค้า</string>
+    <string name="t08binlocation">ที่เก็บ</string>
+    <string name="t08holdbill">พักบิล</string>
+    <string name="t08selectlist">รายการสินค้าที่เลือก</string>
+    <string name="t08notfoundsloc">ยังไม่กำหนดรหัสคลังอ้างอิง</string>
+
+    <string name="t08holdref_key">รหัสค้นคืน/เบอร์โทรศัพท์</string>
+    <string name="t08notfoundcar">ไม่พบข้อมูล !!!</string>
+    <string name="t08notfoundkubotaid">ไม่มีข้อมูล KubotaID !!!</string>
+    <string name="t08pdtnotenought">จำนวนสินค้าคงเหลือไม่เพียงพอ
+        จำนวนคงเหลือ :</string>
+    <string name="t08pdtnotenoughtlist">จำนวนสินค้าคงเหลือไม่เพียงพอ</string>
+    <string name="t08nocus">กรุณาเลือกรายชื่อลูกค้า</string>
+    <string name="t08chainerror">ไม่มีข้อมูลสินค้าในคลัง</string>
+
+    <string name="t08multiplelimit">คูณจำนวนได้ไม่เกิน 99 ชิ้น</string>
+    <string name="t08opendrawer">ทำการเปิดลิ้นชัก</string>
+
+</resources>

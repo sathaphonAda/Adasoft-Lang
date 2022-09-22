@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tActive" xml:space="preserve">
+    <value>Active</value>
+  </data>
+  <data name="tAddress" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="tAddressNo" xml:space="preserve">
+    <value>Address No.</value>
+  </data>
+  <data name="tArea" xml:space="preserve">
+    <value>Area</value>
+  </data>
+  <data name="tBranch" xml:space="preserve">
+    <value>Branch</value>
+  </data>
+  <data name="tBusinessType" xml:space="preserve">
+    <value>Business Type</value>
+  </data>
+  <data name="tCareer" xml:space="preserve">
+    <value>Career</value>
+  </data>
+  <data name="tContact" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="tCountry" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="tCredit" xml:space="preserve">
+    <value>Credit</value>
+  </data>
+  <data name="tCst" xml:space="preserve">
+    <value>Customer</value>
+  </data>
+  <data name="tDeActive" xml:space="preserve">
+    <value>DeActive</value>
+  </data>
+  <data name="tDisRet" xml:space="preserve">
+    <value>Retail Discount</value>
+  </data>
+  <data name="tDistrict" xml:space="preserve">
+    <value>District</value>
+  </data>
+  <data name="tDisWhs" xml:space="preserve">
+    <value>Whols Discount</value>
+  </data>
+  <data name="tDOB" xml:space="preserve">
+    <value>Date of Birth</value>
+  </data>
+  <data name="tEmail" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="tEstab" xml:space="preserve">
+    <value>Establishment</value>
+  </data>
+  <data name="tExpire" xml:space="preserve">
+    <value>Expirydate</value>
+  </data>
+  <data name="tFax" xml:space="preserve">
+    <value>Fax</value>
+  </data>
+  <data name="tFemale" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="tGroup" xml:space="preserve">
+    <value>Group</value>
+  </data>
+  <data name="tHQ" xml:space="preserve">
+    <value>Headquarters</value>
+  </data>
+  <data name="tIDCard" xml:space="preserve">
+    <value>ID Card No. / Passport No.</value>
+  </data>
+  <data name="tIndividual" xml:space="preserve">
+    <value>Individual</value>
+  </data>
+  <data name="tInformation" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="tJuristic" xml:space="preserve">
+    <value>Juristic Person</value>
+  </data>
+  <data name="tLatitude" xml:space="preserve">
+    <value>Latitude</value>
+  </data>
+  <data name="tLevel" xml:space="preserve">
+    <value>Level</value>
+  </data>
+  <data name="tLongtitude" xml:space="preserve">
+    <value>Longtitude</value>
+  </data>
+  <data name="tMemberCard" xml:space="preserve">
+    <value>Member Card</value>
+  </data>
+  <data name="tMen" xml:space="preserve">
+    <value>Men</value>
+  </data>
+  <data name="tNameOther" xml:space="preserve">
+    <value>Other Name</value>
+  </data>
+  <data name="tPmtGrp" xml:space="preserve">
+    <value>Promotion Group</value>
+  </data>
+  <data name="tPoint" xml:space="preserve">
+    <value>Point</value>
+  </data>
+  <data name="tPostcode" xml:space="preserve">
+    <value>Postcode</value>
+  </data>
+  <data name="tPriGrp" xml:space="preserve">
+    <value>Price Group</value>
+  </data>
+  <data name="tPriLevel" xml:space="preserve">
+    <value>Price Level</value>
+  </data>
+  <data name="tProvince" xml:space="preserve">
+    <value>Province</value>
+  </data>
+  <data name="tRemark" xml:space="preserve">
+    <value>Remark</value>
+  </data>
+  <data name="tRFID" xml:space="preserve">
+    <value>RFID</value>
+  </data>
+  <data name="tRoad" xml:space="preserve">
+    <value>Road</value>
+  </data>
+  <data name="tSalePerson" xml:space="preserve">
+    <value>Sale Person</value>
+  </data>
+  <data name="tSearch" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="tSearchLocation" xml:space="preserve">
+    <value>Location Search</value>
+  </data>
+  <data name="tSex" xml:space="preserve">
+    <value>Sex</value>
+  </data>
+  <data name="tShowData" xml:space="preserve">
+    <value>Press button search for show data</value>
+  </data>
+  <data name="tSoi" xml:space="preserve">
+    <value>Soi</value>
+  </data>
+  <data name="tStaContact" xml:space="preserve">
+    <value>Contact Status</value>
+  </data>
+  <data name="tSubDistrict" xml:space="preserve">
+    <value>Sub - District</value>
+  </data>
+  <data name="tTax" xml:space="preserve">
+    <value>Tax ID</value>
+  </data>
+  <data name="tTelephone" xml:space="preserve">
+    <value>Telephone</value>
+  </data>
+  <data name="tType" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="tUser" xml:space="preserve">
+    <value>Responed By</value>
+  </data>
+  <data name="tVillage" xml:space="preserve">
+    <value>tVillage</value>
+  </data>
+  <data name="tWebsite" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="tZone" xml:space="preserve">
+    <value>Zone</value>
+  </data>
+  <data name="tCardExp" xml:space="preserve">
+    <value>Expirydate</value>
+  </data>
+  <data name="tCardIssue" xml:space="preserve">
+    <value>Issued Date</value>
+  </data>
+  <data name="tCardNo" xml:space="preserve">
+    <value>Card No.</value>
+  </data>
+  <data name="tCardRegis" xml:space="preserve">
+    <value>Customer System</value>
+  </data>
+  <data name="tIssuedBy" xml:space="preserve">
+    <value>Issued By</value>
+  </data>
+  <data name="tApprove" xml:space="preserve">
+    <value>Approve</value>
+  </data>
+  <data name="tContactDay" xml:space="preserve">
+    <value>Usually Contact Day</value>
+  </data>
+  <data name="tDestination" xml:space="preserve">
+    <value>Destination</value>
+  </data>
+  <data name="tDisapprove" xml:space="preserve">
+    <value>Disapprove</value>
+  </data>
+  <data name="tFriday" xml:space="preserve">
+    <value>Friday</value>
+  </data>
+  <data name="tLeadTime" xml:space="preserve">
+    <value>Lead Times</value>
+  </data>
+  <data name="tLimit" xml:space="preserve">
+    <value>Credit Limit</value>
+  </data>
+  <data name="tLstContact" xml:space="preserve">
+    <value>Last Contact Date</value>
+  </data>
+  <data name="tLstRcv" xml:space="preserve">
+    <value>Last Receivced</value>
+  </data>
+  <data name="tMonday" xml:space="preserve">
+    <value>Monday</value>
+  </data>
+  <data name="tPayCdt" xml:space="preserve">
+    <value>Payment Condition</value>
+  </data>
+  <data name="tPayment" xml:space="preserve">
+    <value>Payment</value>
+  </data>
+  <data name="tSaturday" xml:space="preserve">
+    <value>Saturday</value>
+  </data>
+  <data name="tShipBy" xml:space="preserve">
+    <value>Ship By</value>
+  </data>
+  <data name="tShippingCdt" xml:space="preserve">
+    <value>Shipping Condition</value>
+  </data>
+  <data name="tSource" xml:space="preserve">
+    <value>Source</value>
+  </data>
+  <data name="tStaActive" xml:space="preserve">
+    <value>Active Status</value>
+  </data>
+  <data name="tStaApprove" xml:space="preserve">
+    <value>Approve Status</value>
+  </data>
+  <data name="tStatementCdt" xml:space="preserve">
+    <value>Statement Condition</value>
+  </data>
+  <data name="tSunday" xml:space="preserve">
+    <value>Sunday</value>
+  </data>
+  <data name="tTerm" xml:space="preserve">
+    <value>Credit Term (Days)</value>
+  </data>
+  <data name="tThursday" xml:space="preserve">
+    <value>Thursday</value>
+  </data>
+  <data name="tTuesday" xml:space="preserve">
+    <value>Tuesday</value>
+  </data>
+  <data name="tWednesday" xml:space="preserve">
+    <value>Wednesday</value>
+  </data>
+  <data name="tModeScan" xml:space="preserve">
+    <value>QR Code</value>
+  </data>
+  <data name="tModeSearch" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="tTitleScanQR" xml:space="preserve">
+    <value>Please scan QR Code</value>
+  </data>
+  <data name="tMsgQRExpire" xml:space="preserve">
+    <value>This QR code is expired</value>
+  </data>
+  <data name="tMsgQRFmt" xml:space="preserve">
+    <value>Invalid QR code format</value>
+  </data>
+  <data name="tTitelQRPayAmt" xml:space="preserve">
+    <value>Payment Amt. :</value>
+  </data>
+  <data name="tTitleQRCardID" xml:space="preserve">
+    <value>ID Card No :</value>
+  </data>
+  <data name="tTitleQRName" xml:space="preserve">
+    <value>Name :</value>
+  </data>
+  <data name="tTitleQRParcel" xml:space="preserve">
+    <value>Parcel Code :</value>
+  </data>
+  <data name="tTitleQRRefCode" xml:space="preserve">
+    <value>Ref. Code :</value>
+  </data>
+  <data name="tTitleQRTel" xml:space="preserve">
+    <value>Phone No :</value>
+  </data>
+  <data name="tMsgDiffPriLev" xml:space="preserve">
+    <value>Difference price level cannot change (just change by cancel document)</value>
+  </data>
+  <data name="tMsgCantSelectCst" xml:space="preserve">
+    <value>Can not select new customers if there are some items on the bil</value>
+  </data>
+</root>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t41topic">ข้อมูลการผ่อนชำระผ่านบัตรเครดิต</string>
+    <string name="t41topicinstallment">แผนการผ่อนชำระ</string>
+    <string name="t41cardno">หมายเลขบัตรเครดิต</string>
+    <string name="t41expir">วันที่หมดอายุ</string>
+    <string name="t41approve">รหัสอนุมัติ</string>
+    <string name="t41ref">รหัสอ้างอิง</string>
+    <string name="t41cardtype">ประเภทบัตรเครดิต</string>
+    <string name="t41plan">แผน</string>
+    <string name="t41minimum">ขั้นต่ำ</string>
+    <string name="t41time">เวลา\n(เดือน)</string>
+    <string name="t41interest">อัตราดอกเบี้ย</string>
+    <string name="t41cal">คำนวนต่องวด</string>
+    <string name="t41cardtypeerror">กรุณาระบุประเภทบัตรเครดิต!!!</string>
+    <string name="t41planerror">กรุณาเลือกแผนการผ่อนชำระ !!!</string>
+    <string name="t41planerrorplan">ไม่พบแผนการผ่อนชำระ !!!</string>
+</resources>

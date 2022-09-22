@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t11return_bill">คืนบิล</string>
+    <string name="t11referbill">อ้างอิงบิล</string>
+    <string name="t11saledate">วันที่ขาย</string>
+    <string name="t11saledocno">เลขที่เอกสาร</string>
+
+    <string name="t11value">มูลค่า</string>
+    
+    <string name="t11product">สินค้า</string>
+    <string name="t11unit">หน่วย</string>
+    <string name="t11qty">จำนวน</string>
+    <string name="t11notallowreturn">ไม่อณุญาติให้คืนสินค้า</string>
+    <string name="t11notfounditem">บิลนี้ถูกอ้างอิงไปแล้ว !!!</string>
+    <string name="t11refund">คืนสินค้า</string>
+    <string name="t11refer">ขายอ้างบิลคืน</string>
+    <string name="t11searchbill">ค้นหาบิล</string>
+    <string name="t11searcreason">ค้นหาเหตุผล</string>
+    <string name="t11selectproduct">เลือกสินค้า</string>
+    <string name="t11notfound">ไม่พบลูกค้า</string>
+    <string name="t11filldoc">กรุณารกอกเลขที่เอกสาร</string>
+    <string name="t11notFoundBill">ไม่พบเลขที่บิลนี้ !!!</string>
+    <string name="t11billhasrefer">บิลนี้ถูกอ้างอิงไปแล้ว !!!</string>
+    <string name="t11billhasrefun">บิลนี้ถูกคืนไปแล้ว !!!</string>
+    <string name="t11notfoundinwah">ไม่สามารถคืนสินค้าที่ไม่มีในคลังได้ !!!</string>
+
+
+
+</resources>

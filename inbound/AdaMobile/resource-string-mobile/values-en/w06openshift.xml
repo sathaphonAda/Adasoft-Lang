@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t06pos">POS No.</string>
+    <string name="t06openShirt">Open Shift</string>
+    <string name="t06personnel">Personnel</string>
+    <string name="t06channel">Channel</string>
+    <string name="t06channelCode">Channel code</string>
+    <string name="t06notfoundChannelCode">Not found channel</string>
+    <string name="tcnpplnotmatch">ไม่สามารถทำรายการได้เนื่องจาก กลุ่มราคาไม่ตรงกัน</string>
+
+</resources>

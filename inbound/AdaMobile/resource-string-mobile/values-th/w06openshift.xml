@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t06pos">รหัสเครื่องจุดขาย</string>
+    <string name="t06openShirt">เปิดรอบ</string>
+    <string name="t06personnel">พนักงาน</string>
+    <string name="t06channel">ช่องทางการขาย</string>
+    <string name="t06channelCode">รหัสช่องทางการขาย</string>
+    <string name="t06notfoundChannelCode">ไม่พบรหัสช่องทางการขาย</string>
+    <string name="tcnpplnotmatch">ไม่สามารถทำรายการได้เนื่องจาก กลุ่มราคาไม่ตรงกัน</string>
+
+</resources>

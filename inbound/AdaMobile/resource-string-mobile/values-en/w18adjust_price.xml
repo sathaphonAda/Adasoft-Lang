@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t18adj_price">Adjust Price</string>
+    <string name="t18last_price">Last Price</string>
+    <string name="t18price_to">Adjust Price To</string>
+
+</resources>

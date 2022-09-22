@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t08Redeem">Redeem</string>
+    <string name="t08notfoundRdhDocNo">ไม่พบเลขที่เอกสาร</string>
+    <string name="t08notfoundCalType">ไม่พบส่วนลด</string>
+    <string name="t08notfoundRdDisAfterPay">ไม่อนุญาตให้ลดรายการหลังจากมีการชำระเงินแล้ว  !!!</string>
+    
+    <string name="t08select">เลือก</string>
+    <string name="t08rdmbarcode">บาร์โค้ด</string>
+    <string name="t08rdmpdtname">ชื่อสินค้า</string>
+    <string name="t08rdmqtyuse">จำนวน</string>
+    <string name="t08rdmusepoint">ใช้แต้ม</string>
+    <string name="t08rdmusemoney">ใช้เงิน</string>
+
+    <string name="t08rdmb4price">ราคาก่อน</string>
+    <string name="t08rdmafprice">ราคาหลัง</string>
+
+    <string name="t08rdmlimitperbill">จำกัดต่อบิล</string>
+    <string name="t08rdmaminvalue">มูลค่าต่ำสุด</string>
+
+</resources>

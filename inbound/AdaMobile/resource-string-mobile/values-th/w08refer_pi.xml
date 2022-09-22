@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t08refer_pi">อ้างอิงใบสั่งขาย</string>
+    <string name="t08pi_no">เลขที่ใบสั่งขาย</string>
+    <string name="t08pi_date">วันที่</string>
+    <string name="t08pi_user">พนักงาน</string>
+
+</resources>

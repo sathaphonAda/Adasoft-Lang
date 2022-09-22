@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t39uploadHQ">Upload to HQ</string>
+    <string name="t39docno">Docno</string>
+    <string name="t39date">Date</string>
+    <string name="t39status">Status</string>
+    <string name="t39edit">Edit</string>
+    <string name="t39bchcreate">Branch</string>
+
+    <string name="t39code">Code</string>
+    <string name="t39pdtname">Name</string>
+    <string name="t39unit">Unit</string>
+    <string name="t39qtyref">QtyRef</string>
+    <string name="t39qty">Qty</string>
+
+    <string name="t39ErrorNotfound">Document Not Found</string>
+    <string name="t39ErrorConnectServer">Can\'t Connect Server</string>
+
+</resources>

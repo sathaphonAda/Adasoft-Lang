@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t02Pos">เครื่องจุดขาย</string>
+    <string name="t02Bch">รหัสสาขา</string>
+    <string name="t02PassWord">รหัสผ่าน</string>
+    <string name="t02API2PSMaster">API2PSMaster</string>
+    <string name="t02API2PSSale">API2PSSale</string>
+    <string name="t02BackOffice">เซ็บหลังบ้าน</string>
+    <string name="t02MenuPage">จำนวนเมนูต่อหน้า</string>
+    <string name="t02PdtPage">จำนวนสินค้าต่อหน้า</string>
+    <string name="t02GrpPage">จำนวนกลุ่มต่อหน้า</string>
+
+    <string name="t02ColorDark">สีเข้ม</string>
+    <string name="t02Color">สีปกติ</string>
+    <string name="t02ColorLight">สีอ่อน</string>
+
+    <string-array name="a02color">
+        <item>เขียว</item>
+        <item>ฟ้า</item>
+        <item>ส้ม</item>
+        <item>น้ำตาล</item>
+        <item>ชมพู</item>
+    </string-array>
+
+</resources>

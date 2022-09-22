@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t09cardno_empty">Please input Card no. !!!</string>
+    <string name="t09bankname_empty">Please select Bank. !!!</string>
+    <string name="t09bankname_limit">Please fill out the complete card number. !!!</string>
+</resources>

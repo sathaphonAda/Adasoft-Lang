@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t08menucheckprice">เช็คราคา</string>
+    <string name="t08menucustomer">ลูกค้า</string>
+    <string name="t08menucancelbill">ยกเลิกบิล</string>
+    <string name="t08menuholdbill">พักบิล</string>
+    <string name="t08menusearchreturn">ค้นคืน</string>
+    <string name="t08menuremark">หมายเหตุ</string>
+    <string name="t08menureturnitem">คืนสินค้า</string>
+    <string name="t08menuchecksales">เช็คยอดขาย</string>
+</resources>

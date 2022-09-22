@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tAddress" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="tAddV1DstCode" xml:space="preserve">
+    <value>District</value>
+  </data>
+  <data name="tAddV1No" xml:space="preserve">
+    <value>H. Number</value>
+  </data>
+  <data name="tAddV1PostCode" xml:space="preserve">
+    <value>Post Code</value>
+  </data>
+  <data name="tAddV1PvnCode" xml:space="preserve">
+    <value>Province</value>
+  </data>
+  <data name="tAddV1Road" xml:space="preserve">
+    <value>Road</value>
+  </data>
+  <data name="tAddV1Soi" xml:space="preserve">
+    <value>Alley</value>
+  </data>
+  <data name="tAddV1SubDist" xml:space="preserve">
+    <value>Sub District</value>
+  </data>
+  <data name="tAddV1Village" xml:space="preserve">
+    <value>Village</value>
+  </data>
+  <data name="tAmt" xml:space="preserve">
+    <value>Amount</value>
+  </data>
+  <data name="tApv" xml:space="preserve">
+    <value>Approvers</value>
+  </data>
+  <data name="tB4Vat" xml:space="preserve">
+    <value>Before Tax</value>
+  </data>
+  <data name="tBchCode" xml:space="preserve">
+    <value>Branch Code</value>
+  </data>
+  <data name="tBranch" xml:space="preserve">
+    <value>Branch</value>
+  </data>
+  <data name="tBsnType" xml:space="preserve">
+    <value>Type of Business</value>
+  </data>
+  <data name="tCasheir" xml:space="preserve">
+    <value>Casheir</value>
+  </data>
+  <data name="tCopy" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+  <data name="tCstCode" xml:space="preserve">
+    <value>Customer Code</value>
+  </data>
+  <data name="tCstName" xml:space="preserve">
+    <value>Customer Name</value>
+  </data>
+  <data name="tDate" xml:space="preserve">
+    <value>Date</value>
+  </data>
+  <data name="tDeposit" xml:space="preserve">
+    <value>Deposit</value>
+  </data>
+  <data name="tDis" xml:space="preserve">
+    <value>Discount</value>
+  </data>
+  <data name="tDocNo" xml:space="preserve">
+    <value>Document No.</value>
+  </data>
+  <data name="tElaborate" xml:space="preserve">
+    <value>Elaborate</value>
+  </data>
+  <data name="tEstab" xml:space="preserve">
+    <value>Establishment</value>
+  </data>
+  <data name="tFax" xml:space="preserve">
+    <value>Fax</value>
+  </data>
+  <data name="tFileName" xml:space="preserve">
+    <value>File Name</value>
+  </data>
+  <data name="tHQ" xml:space="preserve">
+    <value>Headquarters</value>
+  </data>
+  <data name="tIndividual" xml:space="preserve">
+    <value>Individual</value>
+  </data>
+  <data name="tItem" xml:space="preserve">
+    <value>Items</value>
+  </data>
+  <data name="tJuristic" xml:space="preserve">
+    <value>Juristic Person</value>
+  </data>
+  <data name="tMsgApproved" xml:space="preserve">
+    <value>This document has been processed.</value>
+  </data>
+  <data name="tMsgInputAdd" xml:space="preserve">
+    <value>Please input address</value>
+  </data>
+  <data name="tMsgInputDoc" xml:space="preserve">
+    <value>Please input document no</value>
+  </data>
+  <data name="tMsgInputName" xml:space="preserve">
+    <value>Please input customer name</value>
+  </data>
+  <data name="tMsgInputTaxNo" xml:space="preserve">
+    <value>Please input Tax ID</value>
+  </data>
+  <data name="tMsgNotPrint" xml:space="preserve">
+    <value>Can't to print, Becuase document do not create.</value>
+  </data>
+  <data name="tMsgPrcComplete" xml:space="preserve">
+    <value>Processing completed. !!!</value>
+  </data>
+  <data name="tMsgSave" xml:space="preserve">
+    <value>Save edit in complete</value>
+  </data>
+  <data name="tNo" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="tNonVat" xml:space="preserve">
+    <value>Tax Exempt</value>
+  </data>
+  <data name="tPdtDetail" xml:space="preserve">
+    <value>Product Detail</value>
+  </data>
+  <data name="tPdtID" xml:space="preserve">
+    <value>Product Code</value>
+  </data>
+  <data name="tPdtName" xml:space="preserve">
+    <value>Product Name</value>
+  </data>
+  <data name="tPos" xml:space="preserve">
+    <value>POS</value>
+  </data>
+  <data name="tPrice" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="tQty" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="tReceive" xml:space="preserve">
+    <value>Receive by</value>
+  </data>
+  <data name="tRefDoc" xml:space="preserve">
+    <value>Ref. Doc.</value>
+  </data>
+  <data name="tRemark" xml:space="preserve">
+    <value>Remark</value>
+  </data>
+  <data name="tRnd" xml:space="preserve">
+    <value>Round Rcv.</value>
+  </data>
+  <data name="tSaleman" xml:space="preserve">
+    <value>Saleman</value>
+  </data>
+  <data name="tSend" xml:space="preserve">
+    <value>Send By</value>
+  </data>
+  <data name="tSeq" xml:space="preserve">
+    <value>Seq</value>
+  </data>
+  <data name="tSum" xml:space="preserve">
+    <value>Summary</value>
+  </data>
+  <data name="tSumAmt" xml:space="preserve">
+    <value>Net Amount</value>
+  </data>
+  <data name="tSumQty" xml:space="preserve">
+    <value>Sum. Qty.</value>
+  </data>
+  <data name="tTax" xml:space="preserve">
+    <value>Tax Invoice</value>
+  </data>
+  <data name="tTaxID" xml:space="preserve">
+    <value>Tax ID</value>
+  </data>
+  <data name="tTel" xml:space="preserve">
+    <value>Telephone</value>
+  </data>
+  <data name="tTitleAddr1" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="tTitleAddr11" xml:space="preserve">
+    <value>Address 1</value>
+  </data>
+  <data name="tTitleAddr2" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="tTitleAddr21" xml:space="preserve">
+    <value>Address 2</value>
+  </data>
+  <data name="tTitleAftDisChg" xml:space="preserve">
+    <value>After Disc./Chg.</value>
+  </data>
+  <data name="tTitleCst" xml:space="preserve">
+    <value>Customer</value>
+  </data>
+  <data name="tTitleCstNameTax" xml:space="preserve">
+    <value>Customer Name Tax</value>
+  </data>
+  <data name="tTitleDisChg" xml:space="preserve">
+    <value>Disc./Chg.</value>
+  </data>
+  <data name="tTitleNet" xml:space="preserve">
+    <value>Net Total</value>
+  </data>
+  <data name="tTitleSlipNo" xml:space="preserve">
+    <value>Slip No.</value>
+  </data>
+  <data name="tTitleTaxNo" xml:space="preserve">
+    <value>Tax No.</value>
+  </data>
+  <data name="tTitleTotal" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="tTitleTotalAfVat" xml:space="preserve">
+    <value>Total Amount</value>
+  </data>
+  <data name="tTitleTotalPay" xml:space="preserve">
+    <value>Total Payment</value>
+  </data>
+  <data name="tTitleTotalVat" xml:space="preserve">
+    <value>Total Vat</value>
+  </data>
+  <data name="tTitleTotalVatable" xml:space="preserve">
+    <value>Total Vatable</value>
+  </data>
+  <data name="tTitleTotalVatable1" xml:space="preserve">
+    <value>Total Vatable</value>
+  </data>
+  <data name="tTitleTotalWht" xml:space="preserve">
+    <value>Total WHT Amout</value>
+  </data>
+  <data name="tTitleUnit" xml:space="preserve">
+    <value>Unit</value>
+  </data>
+  <data name="tTotalAmt" xml:space="preserve">
+    <value>Sum. Amt.</value>
+  </data>
+  <data name="tType" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="tVat" xml:space="preserve">
+    <value>Tax</value>
+  </data>
+  <data name="tVateRate" xml:space="preserve">
+    <value>Vat Rate</value>
+  </data>
+  <data name="tWBNo" xml:space="preserve">
+    <value>Wristband No. / Card No.</value>
+  </data>
+  <data name="tWhtAmt" xml:space="preserve">
+    <value>Withholding Tax Amt</value>
+  </data>
+  <data name="tWHTax" xml:space="preserve">
+    <value>Withholding Tax</value>
+  </data>
+  <data name="tWithTax" xml:space="preserve">
+    <value>With Tax</value>
+  </data>
+  <data name="tWristband" xml:space="preserve">
+    <value>Wristband / Card</value>
+  </data>
+</root>

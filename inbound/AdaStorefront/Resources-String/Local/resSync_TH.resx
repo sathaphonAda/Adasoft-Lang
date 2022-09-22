@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tCalPmt" xml:space="preserve">
+    <value>กำลังตรวจสอบโปรโมชั่น</value>
+  </data>
+  <data name="tDateCompare" xml:space="preserve">
+    <value>วันที่เปรียบเทียบ</value>
+  </data>
+  <data name="tDownload" xml:space="preserve">
+    <value>ดาวน์โหลด</value>
+  </data>
+  <data name="tLastDate" xml:space="preserve">
+    <value>วันที่ล่าสุด</value>
+  </data>
+  <data name="tMsgUldConnError" xml:space="preserve">
+    <value>การเชื่อมต่อขัดข้องไม่สามารถส่งการขายเข้าระบบหลังบ้านได้ !!!</value>
+  </data>
+  <data name="tMsgUldConnSucc" xml:space="preserve">
+    <value>ระบบกำลังส่งข้อมูลการขายเข้าระบบหลังบ้าน กรุณารอสักครู่...</value>
+  </data>
+  <data name="tRecentUpdate" xml:space="preserve">
+    <value>ตรวจสอบจากการซิงค์ครั้งล่าสุด</value>
+  </data>
+  <data name="tSearch" xml:space="preserve">
+    <value>ค้นหา</value>
+  </data>
+  <data name="tSelectAll" xml:space="preserve">
+    <value>เลือกทั้งหมด</value>
+  </data>
+  <data name="tSetupPos" xml:space="preserve">
+    <value>ตั้งค่าเครื่องจุดขาย</value>
+  </data>
+  <data name="tShiftNow" xml:space="preserve">
+    <value>รอบการขายปัจจุบัน</value>
+  </data>
+  <data name="tStaNoDocUploadSale" xml:space="preserve">
+    <value>สถานะ : เอกสารการขายได้ถูกอัพโหลดหมดแล้ว</value>
+  </data>
+  <data name="tStaNoDocUploadShift" xml:space="preserve">
+    <value>สถานะ : เอกสารรอบการขายได้ถูกอัพโหลดหมดแล้ว</value>
+  </data>
+  <data name="tStaNoDocUploadVoid" xml:space="preserve">
+    <value>สถานะ : ข้อมูลยกเลิกรายการได้ถูกอัพโหลดหมดแล้ว</value>
+  </data>
+  <data name="tStaUploadSale" xml:space="preserve">
+    <value>สถานะ : อัพโหลดเอกสารขาย-คืน</value>
+  </data>
+  <data name="tStaUploadShift" xml:space="preserve">
+    <value>สถานะ : อัพโหลดเอกสารรอบการขาย</value>
+  </data>
+  <data name="tStaUploadVoid" xml:space="preserve">
+    <value>สถานะ : อัพโหลดข้อมูลยกเลิกรายการ</value>
+  </data>
+  <data name="tSuccess" xml:space="preserve">
+    <value>สำเร็จ</value>
+  </data>
+  <data name="tSycDwnError" xml:space="preserve">
+    <value>ดาวน์โหลดข้อมูลไม่สำเร็จ</value>
+  </data>
+  <data name="tSycDwnSuccess" xml:space="preserve">
+    <value>ดาวน์โหลดข้อมูลสำเร็จ</value>
+  </data>
+  <data name="tTitleAutoSync" xml:space="preserve">
+    <value>รอการอัพเดตข้อมูล</value>
+  </data>
+  <data name="tTitleLastDateDwn" xml:space="preserve">
+    <value>วันที่ล่าสุด</value>
+  </data>
+  <data name="tTitleLastDateUpl" xml:space="preserve">
+    <value>วันที่ล่าสุด</value>
+  </data>
+  <data name="tTitleNameDwn" xml:space="preserve">
+    <value>รายการดาวน์โหลด</value>
+  </data>
+  <data name="tTitleNameUpl" xml:space="preserve">
+    <value>เลขที่เอกสาร</value>
+  </data>
+  <data name="tType" xml:space="preserve">
+    <value>ประเภท</value>
+  </data>
+  <data name="tUnSuccess" xml:space="preserve">
+    <value>ไม่สำเร็จ</value>
+  </data>
+  <data name="tUpload" xml:space="preserve">
+    <value>อัพโหลด</value>
+  </data>
+  <data name="tUploadSuccess" xml:space="preserve">
+    <value>อัพโหลดข้อมูลสำเร็จ</value>
+  </data>
+  <data name="tStaGetFixDoc" xml:space="preserve">
+    <value>สถานะ : รับ ข้อมูลตรวจสอบ จากสำนักงานใหญ่</value>
+  </data>
+  <data name="tStaUploadFixDoc" xml:space="preserve">
+    <value>สถานะ : ส่ง ข้อมูลตรวจสอบ ถึงสำนักงานใหญ่</value>
+  </data>
+  <data name="tTitleItemFixDoc" xml:space="preserve">
+    <value>รายการที่ต้องส่งใหม่</value>
+  </data>
+  <data name="tTitleStopUpdSale" xml:space="preserve">
+    <value>ต้องการหยุด การส่งข้อมูล หรือไม่ ?</value>
+  </data>
+  <data name="tUploadCloseShf" xml:space="preserve">
+    <value>ส่งข้อมูลหลังปิดรอบ</value>
+  </data>
+  <data name="tTitleChkUpd" xml:space="preserve">
+    <value>กำลังตรวจสอบการปรับปรุงข้อมูล</value>
+  </data>
+  <data name="tPrgsTxt_0" xml:space="preserve">
+    <value>เตรียมข้อมูลผู้ใช้</value>
+  </data>
+  <data name="tPrgsTxt_10" xml:space="preserve">
+    <value>ตรวจสอบข้อมูลการซ่อมบิล</value>
+  </data>
+  <data name="tPrgsTxt_20" xml:space="preserve">
+    <value>เตรียมข้อมูลราคาสินค้า</value>
+  </data>
+  <data name="tPrgsTxt_30" xml:space="preserve">
+    <value>เตรียมข้อมูลสินค้า</value>
+  </data>
+  <data name="tPrgsTxt_40" xml:space="preserve">
+    <value>เตรียมข้อมูลโปรโมชั่น</value>
+  </data>
+  <data name="tPrgsTxt_5" xml:space="preserve">
+    <value>เตรียมข้อมูลเครื่องจุดขาย</value>
+  </data>
+  <data name="tPrgsTxt_50" xml:space="preserve">
+    <value>เตรียมข้อมูลใบเสร็จ</value>
+  </data>
+  <data name="tPrgsTxt_60" xml:space="preserve">
+    <value>อัพเดตระบบฐานข้อมูล</value>
+  </data>
+  <data name="tPrgsTxt_70" xml:space="preserve">
+    <value>เตรียมข้อมูลการแลกแต้ม</value>
+  </data>
+  <data name="tPrgsTxt_80" xml:space="preserve">
+    <value>เตรียมข้อมูลคูปอง</value>
+  </data>
+  <data name="tPrgsTxt_90" xml:space="preserve">
+    <value>เตรียมระบบการขาย</value>
+  </data>
+  <data name="tTitleSetupPos" xml:space="preserve">
+    <value>กำลังตั้งค่าระบบ</value>
+  </data>
+  <data name="tExportBill" xml:space="preserve">
+    <value>ส่งออกบิล</value>
+  </data>
+  <data name="tExportBillError" xml:space="preserve">
+    <value>ส่งออกบิล ไม่สำเร็จ</value>
+  </data>
+  <data name="tExportBillSuccess" xml:space="preserve">
+    <value>ส่งออกบิล สำเร็จ</value>
+  </data>
+  <data name="tStatus" xml:space="preserve">
+    <value>สถานะ</value>
+  </data>
+  <data name="tSyncDelAll" xml:space="preserve">
+    <value>ล้างข้อมูลเก่า</value>
+  </data>
+  <data name="tTitleInitSys" xml:space="preserve">
+    <value>ตั้งค่าระบบใหม่</value>
+  </data>
+  <data name="tAddPdtUnSuccess" xml:space="preserve">
+    <value>เพิ่มสินค้าไม่สำเร็จ</value>
+  </data>
+  <data name="tMsgTimeout" xml:space="preserve">
+    <value>หมดเวลาการเชื่อมต่อ</value>
+  </data>
+  <data name="tWaitPrc" xml:space="preserve">
+    <value>ระบบกำลังรอการประมวลผล กรุณารอสักครู่...</value>
+  </data>
+  <data name="tUploadPdt" xml:space="preserve">
+    <value>กำลังส่งข้อมูลสินค้าไปยังระบบ กรุณารอสักครู่...</value>
+  </data>
+  <data name="tUploadPdtSuccess" xml:space="preserve">
+    <value>ส่งข้อมูลสินค้าไปยังระบบสำเร็จ</value>
+  </data>
+  <data name="tUploadPdtUnSuccess" xml:space="preserve">
+    <value>ส่งข้อมูลสินค้าไปยังระบบไม่สำเร็จ</value>
+  </data>
+</root>

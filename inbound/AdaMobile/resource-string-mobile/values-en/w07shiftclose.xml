@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t07shiftclose">Close Shift</string>
+    <string name="t07shiftdetail">Shift Detail</string>
+    <string name="t07lastuser">Last User :</string>
+    <string name="t07shiftcode">Shift Code :</string>
+    <string name="t07signin">Sign In :</string>
+    <string name="t07signout">Sign Out :</string>
+    <string name="t07starttime">Start time :</string>
+
+    <string name="t07seq">Seq.</string>
+    <string name="t07paytype">Type of payment</string>
+    <string name="t07amount">Amount :</string>
+    
+    <string name="t07type">Type</string>
+    <string name="t07value">Value</string>
+    <string name="t07qty">Qty</string>
+    <string name="t07amount2">Count</string>
+    <string name="t07titlebank">Save the cash balance according to the banknote / coin</string>
+    <string name="t07titlepayment">Save the balance according to the payment type</string>
+    <string name="t07banklist">Bank List</string>
+    <string name="t07patment">Payment List</string>
+
+    <string name="t07amountcash">Total Cash</string>
+    <string name="t07amountTotalcash">Total Cash</string>
+    <string name="t07RcvTypeSeq">Seq Payment</string>
+    <string name="t07totalpayment">Total Payment</string>
+    <string name="t07sumsale">Sales summary </string>
+
+    <string name="t07list">List</string>
+    <string name="t07sequence">sequence</string>
+    <string name="t07sale">Sale</string>
+    <string name="t07return">Return</string>
+    <string name="t07round">Round</string>
+
+    <string name="t07amtsale">Total Sale </string>
+    <string name="t07amtreturn">Total Return </string>
+
+    <string name="t07amtDrawer">Total In Drawer</string>
+    
+    <string name="t07BillSaleFrom">Sale From</string>
+    <string name="t07BillSaleTo">Sale To</string>
+
+    <string name="t07BillReturnFrom">Return From</string>
+    <string name="t07BillReturnTo">Return To</string>
+
+    <string name="t07ChkHoldBill">Have Holdbill If you closeshift. Holdbill will delete.</string>
+
+</resources>

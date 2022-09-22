@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t09cardno_empty">กรุณาระบุหมายเลขบัตร !!!</string>
+    <string name="t09bankname_empty">กรุณาระบุธนาคาร !!!</string>
+    <string name="t09bankname_limit">กรุณาระบุหมายเลขบัตรให้ครบ</string>
+
+</resources>

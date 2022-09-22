@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t05Download">ดาวน์โหลด</string>
+    <string name="t05Task">ชื่อตาราง</string>
+    <string name="t05Search">ค้นหา</string>
+    <string name="t05checklastsync">ข้อมูลซิงค์ครั้งล่าสุด</string>
+    <string name="t05dwnsearch">ค้นหาข้อมูลดาวน์โหลด</string>
+
+</resources>

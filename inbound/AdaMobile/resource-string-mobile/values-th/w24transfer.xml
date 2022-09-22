@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t24title">รายการโอน</string>
+    <string name="t24date">วันที่</string>
+    <string name="t24no">เลขที่</string>
+    <string name="t24reference">อ้างอิง</string>
+    <string name="t24fromwah">จากคลัง</string>
+    <string name="t24towah">ถึงคลัง</string>
+    <string name="t24pdtcode">รหัสสินค้า</string>
+    <string name="t24unit">หน่วย</string>
+    <string name="t24amount">จำนวน</string>
+    <string name="t24billnumber">เลขที่บิล</string>
+    <string name="t24saletype">ประเภทบิลขาย</string>
+    <string name="t24paymenytype">ประเภทการชำระ</string>
+
+</resources>

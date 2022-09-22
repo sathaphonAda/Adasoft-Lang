@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t17chg_percent">ชาร์จมูลค่า</string>
+    <string name="t17value_b4chg">มูลค่าก่อนชาร์จ</string>
+    <string name="t17value_afchg">มูลค่าหลังชาร์จ</string>
+
+</resources>

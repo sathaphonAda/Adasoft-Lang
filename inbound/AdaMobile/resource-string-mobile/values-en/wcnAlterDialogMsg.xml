@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wcnNotEnoughsale">Not enough sales</string>
+    <string name="wcnnotfound">Not Found Product</string>
+    <string name="wcnnotcustomer">Not Found Customer</string>
+    <string name="wcnError">Error</string>
+    <string name="wcnAccept">Accept</string>
+    <string name="wcnEnterpin">Enter the PIN</string>
+    <string name="wcnEnterpw">Enter the Password</string>
+    <string name="wcnfilltext">Please Fill Text</string>
+    <string name="wcnholdbill">Hold Bill</string>
+    <string name="wcndetail">The system will save the current program for future data retrieval. Do you confirm the order?</string>
+    <string name="wcnWithdrawError">Can not Withdraw Because amount is greater than Deposit</string>
+    <string name="wcnnotfoundholdbill">No any data to do the function.</string>
+    <string name="wcnnotpermissionrequest">Please open a restart application to allow data access</string>
+    <string name="wcnnofoundrsn">Not Found Reason</string>
+    <string name="wcncannotopenshift">POS not registered/Approved for use</string>
+    <string name="wcncannotopenshiftnotappove">POS not registered. Please register.</string>
+    <string name="wcncannotopenshiftmacerror">MAC not registered/Approved for use</string>
+    <string name="wcncannotopenshiftexpired">License is expired.</string>
+    <string name="wcncancel">Cancel</string>
+    <string name="wcnwaning">Warning</string>
+    <string name="wcnwaningmacmatch">This Mac.Address is already registered At</string>
+    <string name="wcnwaningallmatch">This Mac.Address is already registered. Please confirm branch and pos to logging in</string>
+    <string name="wcnwaningposmatch">This POS is already registered.</string>
+    <string name="wcnwaningbch">Branch code</string>
+    <string name="wcnwaningpos">POS code</string>
+    <string name="wcnexit">Do you want to exit the application</string>
+    <string name="wcnpwderror">PIN was wrong. Please re-enter again.</string>
+    <string name="wcncloseshift">This Shift is not the current day. Please close Shift !!!</string>
+    <string name="wcnPlscloseshift">Please Close Shift Before Change Branch or Pos</string>
+    <string name="wcnwaitApprov">Wait For Admin Approve.</string>
+    <string name="wcnApprov">Approved</string>
+    <string name="wcnExp">Date expired</string>
+    <string name="wcnPrintLostConnect">Can not connect to pronter device</string>
+
+    <string name="wcnalertmsg">Alert</string>
+    <string name="wcnadeletemsg">Confirm Data Deletion</string>
+
+    <string name="wcnTbiHisEror">No Information Found</string>
+
+    <string name="wcnhavedocref">Doc no has in list!</string>
+</resources>

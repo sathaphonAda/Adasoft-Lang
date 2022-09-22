@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="t08csttel">Tel.</string>
+    <string name="t08cstid">Card ID</string>
+    <string name="t08cstname">Name</string>
+    <string name="t08cstcode2">Customer ID</string>
+    <string name="t08cstmem">Member ID</string>
+    <string name="t08cstTax">Tax ID</string>
+    <string name="t08cstPoint">Point</string>
+    <string name="t08pdtcode">Product Code</string>
+    <string name="t08pdtnamecst">Product Name</string>
+    <string name="t08quota">Quota</string>
+    <string name="t08cstdetail">Customer Detail</string>
+    <string name="t08confirm_btn">Confirm SearchCustomer</string>
+    <string name="t08dialogLoading">Loading</string>
+    <string name="t08searchcst">Search Customer</string>
+    <string name="t08cuspoint">Point</string>
+    <string name="t08cuscode">Customer Code : </string>
+    <string name="t08privilege">privilege</string>
+    
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t03DownloadMaster">Download Master</string>
+    <string name="t03MasterTable">Table</string>
+    <string name="t03MasterLast">Last Date</string>
+
+    <string name="t03Sync">Download</string>
+    <string name="t03Upload">Upload</string>
+    <string name="t03Docno">Doc No.</string>
+    <string name="t03DesShift">Shift open - Shift close data</string>
+    <string name="t03DesSale">Sales data</string>
+    <string name="t03StartDate">Start date :&#160;</string>
+    <string name="t03DateCompare">Date :&#160;</string>
+    <string name="t03MsgDate">The end date cannot be less than the start date.</string>
+    <string name="t03TitleUpload">Uploading&#8230;</string>
+    <string name="t03MsgSelect">Please select the data you want to upload.</string>
+    <string name="t03PwdWrong">Password wrong</string>
+    <string name="t04chkall">Select All</string>
+    <string name="t04CheckShift">Current Shift</string>
+
+    <string name="t04searchupl">Find Data Upload</string>
+
+</resources>

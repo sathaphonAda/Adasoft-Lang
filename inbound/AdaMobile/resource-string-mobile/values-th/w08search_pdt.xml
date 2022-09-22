@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t08search_pdt">ค้นหาสินค้า</string>
+    <string name="t08search_pdtcode">ค้นหาตาม รหัสสินค้า หรือ บาร์โค็ด</string>
+    <string name="t08search_pdtname">ค้นหาตาม ชื่อ</string>
+    <string name="t08search_pdtgrp">ค้นหาตาม กลุ่ม</string>
+    <string name="t08search_pdtbrand">ค้นหาตาม ยี่ห้อ</string>
+    <string name="t08search_pdtmodel">ค้นหาตาม รุ่น</string>
+
+    <string name="t08search_pdtconfirm">ยืนยัน ค้นหา ตามเงื่อนไข</string>
+    <string name="t08search_tbar">รหัส</string>
+    <string name="t08search_tname">ชื่อ</string>
+    <string name="t08search_tunit">หน่วย</string>
+    <string name="t08search_tprice">ราคา</string>
+
+    <string name="t08titlepdtprice">ตรวจสอบราคา</string>
+
+</resources>

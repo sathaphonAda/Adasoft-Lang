@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wcnSlipcloseshift">!!! ปิดการขาย !!!</string>
+    <string name="wcnSlipDate">วันที่ขาย:</string>
+    <string name="wcnSlipPosNo">หมายเลขเครื่อง:</string>
+    <string name="wcnSlipUserCode">ผู้ใช้:</string>
+    <string name="wcnSlipprintdate">พิมพ์วันที่ : </string>
+    <string name="wcnSlipprinttime">เวลา : </string>
+    <string name="wcnSlipBankNote">ใบส่งเงิน</string>
+    <string name="wcnSlipSale">พนักงานขาย : </string>
+    <string name="wcnSlipShift">เลขที่รอบ : </string>
+    <string name="wcnSlipSavePayment">บันทึก สรุปยอดเงิน</string>
+
+
+
+
+</resources>

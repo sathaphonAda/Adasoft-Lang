@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tActive" xml:space="preserve">
+    <value>Active</value>
+  </data>
+  <data name="tAge" xml:space="preserve">
+    <value>Age of product</value>
+  </data>
+  <data name="tAnnual" xml:space="preserve">
+    <value>Annual</value>
+  </data>
+  <data name="tArticle" xml:space="preserve">
+    <value>Article</value>
+  </data>
+  <data name="tBalance" xml:space="preserve">
+    <value>Balance</value>
+  </data>
+  <data name="tBarcode" xml:space="preserve">
+    <value>Barcode</value>
+  </data>
+  <data name="tBrand" xml:space="preserve">
+    <value>Brand</value>
+  </data>
+  <data name="tCal" xml:space="preserve">
+    <value>Allow Calculation</value>
+  </data>
+  <data name="tClass" xml:space="preserve">
+    <value>Class</value>
+  </data>
+  <data name="tCode" xml:space="preserve">
+    <value>Code</value>
+  </data>
+  <data name="tColor" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="tControlSpc" xml:space="preserve">
+    <value>Control Special</value>
+  </data>
+  <data name="tCostAmt" xml:space="preserve">
+    <value>Cost Amount</value>
+  </data>
+  <data name="tCostAvg" xml:space="preserve">
+    <value>Cost Average</value>
+  </data>
+  <data name="tCostDfn" xml:space="preserve">
+    <value>Cost Define</value>
+  </data>
+  <data name="tCostFiFo" xml:space="preserve">
+    <value>Cost FiFo</value>
+  </data>
+  <data name="tCostLst" xml:space="preserve">
+    <value>Cost Last</value>
+  </data>
+  <data name="tCostOth" xml:space="preserve">
+    <value>Cost Other</value>
+  </data>
+  <data name="tCostStd" xml:space="preserve">
+    <value>Cost Standard</value>
+  </data>
+  <data name="tCsm" xml:space="preserve">
+    <value>Consignment</value>
+  </data>
+  <data name="tCustomDay" xml:space="preserve">
+    <value>Custom (Day)</value>
+  </data>
+  <data name="tDaily" xml:space="preserve">
+    <value>Daily</value>
+  </data>
+  <data name="tDcs" xml:space="preserve">
+    <value>DCS</value>
+  </data>
+  <data name="tDepart" xml:space="preserve">
+    <value>Depart</value>
+  </data>
+  <data name="tDeposit" xml:space="preserve">
+    <value>Deposit</value>
+  </data>
+  <data name="tDisChg" xml:space="preserve">
+    <value>Discount / Charge</value>
+  </data>
+  <data name="tEvent" xml:space="preserve">
+    <value>Time for Sale</value>
+  </data>
+  <data name="tFactor" xml:space="preserve">
+    <value>Factor</value>
+  </data>
+  <data name="tFashion" xml:space="preserve">
+    <value>Fashion</value>
+  </data>
+  <data name="tFee" xml:space="preserve">
+    <value>Fee</value>
+  </data>
+  <data name="tGeneral" xml:space="preserve">
+    <value>General Product</value>
+  </data>
+  <data name="tGift" xml:space="preserve">
+    <value>Gift</value>
+  </data>
+  <data name="tGroup" xml:space="preserve">
+    <value>Group</value>
+  </data>
+  <data name="tHourly" xml:space="preserve">
+    <value>Hourly</value>
+  </data>
+  <data name="tInformation" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="tMax" xml:space="preserve">
+    <value>Product Maximum</value>
+  </data>
+  <data name="tMaxHeart" xml:space="preserve">
+    <value>Max heat of product</value>
+  </data>
+  <data name="tMfg" xml:space="preserve">
+    <value>Date Manufacturing</value>
+  </data>
+  <data name="tMin" xml:space="preserve">
+    <value>Product Minimum</value>
+  </data>
+  <data name="tModel" xml:space="preserve">
+    <value>Model</value>
+  </data>
+  <data name="tMonthly" xml:space="preserve">
+    <value>Monthly</value>
+  </data>
+  <data name="tName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="tNameABB" xml:space="preserve">
+    <value>Name (ABB)</value>
+  </data>
+  <data name="tNotAllowAll" xml:space="preserve">
+    <value>Not Allow All</value>
+  </data>
+  <data name="tOlnPri" xml:space="preserve">
+    <value>Online Price</value>
+  </data>
+  <data name="tOpenPLU" xml:space="preserve">
+    <value>Open PLU</value>
+  </data>
+  <data name="tOther" xml:space="preserve">
+    <value>Other Product</value>
+  </data>
+  <data name="tOtherName" xml:space="preserve">
+    <value>Other Name</value>
+  </data>
+  <data name="tOthName" xml:space="preserve">
+    <value>Other Name</value>
+  </data>
+  <data name="tPage" xml:space="preserve">
+    <value>Found {0} records. Page {1}/{2}</value>
+  </data>
+  <data name="tPdtGrp" xml:space="preserve">
+    <value>Product Group</value>
+  </data>
+  <data name="tPdtType" xml:space="preserve">
+    <value>Product Type</value>
+  </data>
+  <data name="tPntTime" xml:space="preserve">
+    <value>Point Time</value>
+  </data>
+  <data name="tPoint" xml:space="preserve">
+    <value>Point Giving</value>
+  </data>
+  <data name="tPrice" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="tProduct" xml:space="preserve">
+    <value>Product</value>
+  </data>
+  <data name="tProductN" xml:space="preserve">
+    <value>Normal Product</value>
+  </data>
+  <data name="tProductSet" xml:space="preserve">
+    <value>Set Product</value>
+  </data>
+  <data name="tQtyOrdBuy" xml:space="preserve">
+    <value>Qty Order Buy</value>
+  </data>
+  <data name="tRefShop" xml:space="preserve">
+    <value>Reference Shop</value>
+  </data>
+  <data name="tRemark" xml:space="preserve">
+    <value>Remark</value>
+  </data>
+  <data name="tRental" xml:space="preserve">
+    <value>Rental</value>
+  </data>
+  <data name="tRepack" xml:space="preserve">
+    <value>Repack</value>
+  </data>
+  <data name="tRequestReturn" xml:space="preserve">
+    <value>Request Return</value>
+  </data>
+  <data name="tRetpri" xml:space="preserve">
+    <value>Retail  Price</value>
+  </data>
+  <data name="tReturn" xml:space="preserve">
+    <value>Return</value>
+  </data>
+  <data name="tSalePrice" xml:space="preserve">
+    <value>Sale Price</value>
+  </data>
+  <data name="tSaleStart" xml:space="preserve">
+    <value>Sale Start</value>
+  </data>
+  <data name="tSaleStop" xml:space="preserve">
+    <value>Sale Stop</value>
+  </data>
+  <data name="tSaleType" xml:space="preserve">
+    <value>Sale Type</value>
+  </data>
+  <data name="tScales" xml:space="preserve">
+    <value>Scales</value>
+  </data>
+  <data name="tSearch" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="tSeason" xml:space="preserve">
+    <value>Season</value>
+  </data>
+  <data name="tSerial" xml:space="preserve">
+    <value>Serial Product</value>
+  </data>
+  <data name="tSerialSet" xml:space="preserve">
+    <value>Serial Set Product</value>
+  </data>
+  <data name="tService" xml:space="preserve">
+    <value>Service Product</value>
+  </data>
+  <data name="tSetOrSN" xml:space="preserve">
+    <value>Set or Serial</value>
+  </data>
+  <data name="tSetPrice" xml:space="preserve">
+    <value>Set Price</value>
+  </data>
+  <data name="tSetPriSta" xml:space="preserve">
+    <value>Set Price Status</value>
+  </data>
+  <data name="tSetShwDt" xml:space="preserve">
+    <value>Set Show Detail</value>
+  </data>
+  <data name="tShop" xml:space="preserve">
+    <value>Shop</value>
+  </data>
+  <data name="tShowData" xml:space="preserve">
+    <value>Press button search for show data</value>
+  </data>
+  <data name="tSize" xml:space="preserve">
+    <value>Size</value>
+  </data>
+  <data name="tSpecial" xml:space="preserve">
+    <value>Special Product</value>
+  </data>
+  <data name="tStepPrice" xml:space="preserve">
+    <value>Step Price</value>
+  </data>
+  <data name="tStkCtl" xml:space="preserve">
+    <value>Stock Control</value>
+  </data>
+  <data name="tStkFac" xml:space="preserve">
+    <value>Stock Factor</value>
+  </data>
+  <data name="tSubClass" xml:space="preserve">
+    <value>Sub Class</value>
+  </data>
+  <data name="tSumPrice" xml:space="preserve">
+    <value>Summary Price</value>
+  </data>
+  <data name="tSupplier" xml:space="preserve">
+    <value>Supplier</value>
+  </data>
+  <data name="tTchGrp" xml:space="preserve">
+    <value>Touch Screen Group</value>
+  </data>
+  <data name="tTime" xml:space="preserve">
+    <value>Qty time</value>
+  </data>
+  <data name="tType" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="tUnit" xml:space="preserve">
+    <value>Unit</value>
+  </data>
+  <data name="tUnknown" xml:space="preserve">
+    <value>Unknown</value>
+  </data>
+  <data name="tVat" xml:space="preserve">
+    <value>Vat</value>
+  </data>
+  <data name="tWeight" xml:space="preserve">
+    <value>Weight</value>
+  </data>
+  <data name="tWhsPri" xml:space="preserve">
+    <value>Wholesale Price</value>
+  </data>
+</root>

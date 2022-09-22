@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="t15dis_percent">ลดมูลค่า</string>
+    <string name="t15value_b4dis">มูลค่าก่อนลด</string>
+    <string name="t15value_afdis">มูลค่าหลังลด</string>
+    
+</resources>

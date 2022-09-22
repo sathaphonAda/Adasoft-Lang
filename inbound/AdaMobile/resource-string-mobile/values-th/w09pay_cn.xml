@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t09cntotal">ยอดรวม</string>
+    <string name="t09cntotalpay">ยอดชำระ</string>
+    <string name="t09cntotalamt">ยอดค้างชำระ</string>
+
+    <string name="t09cndocno">เลขที่เอกสาร</string>
+    <string name="t09cnpayuse">ยอดที่ใช้ชำระได้</string>
+    <string name="t09cn_cstsearch">ค้นหาสมาชิก</string>
+    <string name="t09cn_docsearch">ระบุเอกสาร</string>
+
+</resources>

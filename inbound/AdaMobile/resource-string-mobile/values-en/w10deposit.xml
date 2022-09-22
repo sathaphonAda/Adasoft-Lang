@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="t10reason">Reason</string>
+    <string name="t10deposithint">Deposit in</string>
+    <string name="t10deposit">Deposit</string>
+    <string name="t10value">Amount</string>
+    <string name="t10totalstep">Total count</string>
+    <string name="t10total">Total amount</string>
+    <string name="t10reason2">Remark</string>
+    
+</resources>

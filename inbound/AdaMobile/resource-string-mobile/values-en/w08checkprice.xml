@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="t08checkprice">Check Price</string>
+    <string name="t08head_pdtcode">Product code : </string>
+    <string name="t08head_pdtname">Product name : </string>
+    <string name="t08head_pdtunit">Unit name : </string>
+    <string name="t08head_pdtpi">DocNo : </string>
+    <string name="t08head_start">Start Date : </string>
+    <string name="t08head_pdtprice">Price : </string>
+    <string name="t08head_bln">Balance : </string>
+
+    <string name="t08chk_pmtcode">Promotion code</string>
+    <string name="t08chk_pmtname">Promotion name</string>
+    <string name="t08chk_datesatrt">Start Date</string>
+    <string name="t08chk_datestop">Stop Date</string>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t09seq">Seq</string>
+    <string name="t09detail">Detail</string>
+    <string name="t09amount">Amount</string>
+    <string name="t09total">Total</string>
+    <string name="t09billdis">Bill Discount</string>
+    <string name="t09netsale">Net Sale</string>
+    <string name="t09amounttender">Amount Tendered</string>
+    <string name="t09cashrnd">Cash rounding</string>
+    <string name="t09list">รายการ</string>
+    <string name="t09cash">เงินสด</string>
+    <string name="t09promtpay">พร้อมเพย์</string>
+    <string name="t09credit">บัตรเครดิต</string>
+    <string name="t09pay">ชำระ</string>
+    <string name="t09balance">คงเหลือ</string>
+    <string name="t09pickinglist">ใบหยิบสินค้า</string>
+
+    <string name="t09please_scan_promptpay">กรุณาสแกน QR ก่อนหมดเวลา</string>
+
+    <string name="t09cardno">หมายเลขบัตร</string>
+    <string name="t09bankname">ธนาคาร</string>
+    <string name="t09cardtype">ประเภทบัตร</string>
+
+    <string name="t09enable_dis">มูลค่าที่สามารถหักส่วนลด</string>
+    <string name="t09coupon_no">หมายเลข</string>
+    <string name="t09coupon_dis">ลด %</string>
+    <string name="t09value_dis">มูลค่าส่วนลด</string>
+
+    <string name="t09pnt_available">แต้มคงเหลือ</string>
+    <string name="t09pnt_value">จำนวนแต้ม</string>
+    <string name="t09pnt_dis">มูลค่าส่วนลด</string>
+    <string name="t09pnt_lowrate">ยอดเงินขั้นค่ำ</string>
+
+    <string name="t09pmt_seq">รายละเอียด</string>
+    <string name="t09pmt_promotion">โปรโมชั่น</string>
+    <string name="t09pmt_promotionreq">โปรโมชั่น(แนะนำ)</string>
+    <string name="t09pmt_qty">ชุด(ได้รับ)</string>
+    <string name="t09pmt_qtymax">ชุด(จำกัด)</string>
+    <string name="t09pmt_discount">ส่วนลด</string>
+    <string name="t09pmt_privillege">สิทธ์</string>
+    <string name="t09pmt_point">แต้ม</string>
+    <string name="t09pmt_add">เพิ่ม</string>
+    <string name="t09Change">เงินทอน</string>
+
+    <string name="t09pmt_dis">ลด</string>
+    <string name="t09pmt_edit">แก้ไข-ชุด(ได้รับ)</string>
+    <string name="t09pmt_detail">รายละเอียด โปรโมชั่น</string>
+
+    <string name="t09coupon_amounttext">ยอดชำระ</string>
+    <string name="t09coupon_plsentercoupon">กรุณากรอกรหัสคูปอง</string>
+    <string name="t09coupon_dateused">วันที่ใช้ได้</string>
+    <string name="t09coupon_timeused">เวลาใช้ได้</string>
+    <string name="t09coupon_condition">เงื่อนไขการลด</string>
+    <string name="t09coupon_values">มูลค่าคูปอง</string>
+    <string name="t09coupon_cash">คูปองเงินสด</string>
+    <string name="t09coupon_discount">คูปองส่วนลด</string>
+    <string name="t09coupon_notfoundorhasused">ไม่พบรหัสคูปอง หรือมีการใช้งานไปแล้ว</string>
+    <string name="t09coupon_couponNo">หมายเลขคูปอง</string>
+    <string name="t09coupon_name">ชื่อ</string>
+    <string name="t09coupon_msg1">ข้อความ1</string>
+    <string name="t09coupon_msg2">ข้อความ2</string>
+    <string name="t09coupon_fromdate">จากวันที่</string>
+    <string name="t09coupon_todate">ถึงวันที่</string>
+    <string name="t09coupon_selectcondition">เงื่อนไข</string>
+    <string name="t09coupon_value">มูลค่า</string>
+    <string name="t09coupon_detail">รายละเอียด</string>
+    <string name="t09coupon_select">กรุณาเลือกรายการ</string>
+    <string name="t09coupon_redeem">คูปองแลกซื้อ</string>
+
+    <string name="t09stapay_cancel">มีการชำระเงินบางส่วนไม่สามารถย้อนกลับได้</string>
+
+</resources>

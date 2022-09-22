@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t08Redeem">Redeem</string>
+    <string name="t08notfoundRdhDocNo">Not Found RedeemDocNo </string>
+    <string name="t08notfoundCalType">Not Found Redeem</string>
+    <string name="t08notfoundRdDisAfterPay">Can not Discount</string>
+
+    <string name="t08select">Select</string>
+    <string name="t08rdmbarcode">Barcode</string>
+    <string name="t08rdmpdtname">Produnt</string>
+    <string name="t08rdmqtyuse">Qty</string>
+    <string name="t08rdmusepoint">Use Point</string>
+    <string name="t08rdmusemoney">Use Money</string>
+    
+    <string name="t08rdmb4price">B4Price</string>
+    <string name="t08rdmafprice">AFPrice</string>
+
+    <string name="t08rdmlimitperbill">LimitPerBill</string>
+    <string name="t08rdmaminvalue">MinValue</string>
+</resources>

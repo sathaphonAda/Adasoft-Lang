@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t08menucheckprice">Check Price</string>
+    <string name="t08menucustomer">Customer</string>
+    <string name="t08menucancelbill">Cancel Bill</string>
+    <string name="t08menuholdbill">Hold Bill</string>
+    <string name="t08menusearchreturn">Search Return</string>
+    <string name="t08menuremark">Remark</string>
+    <string name="t08menureturnitem">Return Items</string>
+    <string name="t08menuchecksales">Check Sales</string>
+</resources>

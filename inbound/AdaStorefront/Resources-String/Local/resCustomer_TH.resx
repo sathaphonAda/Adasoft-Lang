@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tActive" xml:space="preserve">
+    <value>ติดต่อ</value>
+  </data>
+  <data name="tAddress" xml:space="preserve">
+    <value>ที่อยู่</value>
+  </data>
+  <data name="tAddressNo" xml:space="preserve">
+    <value>บ้านเลขที่</value>
+  </data>
+  <data name="tArea" xml:space="preserve">
+    <value>ภูมิภาค</value>
+  </data>
+  <data name="tBranch" xml:space="preserve">
+    <value>สาขา</value>
+  </data>
+  <data name="tBusinessType" xml:space="preserve">
+    <value>ประเภทธุรกิจ</value>
+  </data>
+  <data name="tCareer" xml:space="preserve">
+    <value>อาชีพ</value>
+  </data>
+  <data name="tContact" xml:space="preserve">
+    <value>ข้อมูลติดต่อ</value>
+  </data>
+  <data name="tCountry" xml:space="preserve">
+    <value>ประเทศ</value>
+  </data>
+  <data name="tCredit" xml:space="preserve">
+    <value>เครดิต</value>
+  </data>
+  <data name="tCst" xml:space="preserve">
+    <value>ลูกค้า</value>
+  </data>
+  <data name="tDeActive" xml:space="preserve">
+    <value>ยกเลิกติดต่อ</value>
+  </data>
+  <data name="tDisRet" xml:space="preserve">
+    <value>ส่วนลดขายปลีก</value>
+  </data>
+  <data name="tDistrict" xml:space="preserve">
+    <value>เขต / อำเภอ</value>
+  </data>
+  <data name="tDisWhs" xml:space="preserve">
+    <value>ส่วนลดขายส่ง</value>
+  </data>
+  <data name="tDOB" xml:space="preserve">
+    <value>วันเกิด</value>
+  </data>
+  <data name="tEmail" xml:space="preserve">
+    <value>อีเมล</value>
+  </data>
+  <data name="tEstab" xml:space="preserve">
+    <value>สถานประกอบการ</value>
+  </data>
+  <data name="tExpire" xml:space="preserve">
+    <value>วันหมดอายุ</value>
+  </data>
+  <data name="tFax" xml:space="preserve">
+    <value>โทรสาร</value>
+  </data>
+  <data name="tFemale" xml:space="preserve">
+    <value>ผู้หญิง</value>
+  </data>
+  <data name="tGroup" xml:space="preserve">
+    <value>กลุ่ม</value>
+  </data>
+  <data name="tHQ" xml:space="preserve">
+    <value>สำนักงานใหญ่</value>
+  </data>
+  <data name="tIDCard" xml:space="preserve">
+    <value>บัตรประชาชน / พาสปอร์ต</value>
+  </data>
+  <data name="tIndividual" xml:space="preserve">
+    <value>บุคคลธรรมดา</value>
+  </data>
+  <data name="tInformation" xml:space="preserve">
+    <value>ข้อมูลทั่วไป</value>
+  </data>
+  <data name="tJuristic" xml:space="preserve">
+    <value>นิติบุคคล</value>
+  </data>
+  <data name="tLatitude" xml:space="preserve">
+    <value>ละติจูด</value>
+  </data>
+  <data name="tLevel" xml:space="preserve">
+    <value>ระดับ</value>
+  </data>
+  <data name="tLongtitude" xml:space="preserve">
+    <value>ลองจิจูด</value>
+  </data>
+  <data name="tMemberCard" xml:space="preserve">
+    <value>บัตรสมาชิก</value>
+  </data>
+  <data name="tMen" xml:space="preserve">
+    <value>ผู้ชาย</value>
+  </data>
+  <data name="tNameOther" xml:space="preserve">
+    <value>ชื่ออื่น</value>
+  </data>
+  <data name="tPmtGrp" xml:space="preserve">
+    <value>กลุ่มโปรโมชั่น</value>
+  </data>
+  <data name="tPoint" xml:space="preserve">
+    <value>แต้ม</value>
+  </data>
+  <data name="tPostcode" xml:space="preserve">
+    <value>รหัสไปรษณีย์</value>
+  </data>
+  <data name="tPriGrp" xml:space="preserve">
+    <value>กลุ่มราคา</value>
+  </data>
+  <data name="tPriLevel" xml:space="preserve">
+    <value>ระดับราคา</value>
+  </data>
+  <data name="tProvince" xml:space="preserve">
+    <value>จังหวัด</value>
+  </data>
+  <data name="tRemark" xml:space="preserve">
+    <value>หมายเหตุ</value>
+  </data>
+  <data name="tRFID" xml:space="preserve">
+    <value>RFID</value>
+  </data>
+  <data name="tRoad" xml:space="preserve">
+    <value>ถนน</value>
+  </data>
+  <data name="tSalePerson" xml:space="preserve">
+    <value>พนักงานขาย</value>
+  </data>
+  <data name="tSearch" xml:space="preserve">
+    <value>ค้นหา</value>
+  </data>
+  <data name="tSearchLocation" xml:space="preserve">
+    <value>ค้นหาสถานที่</value>
+  </data>
+  <data name="tSex" xml:space="preserve">
+    <value>เพศ</value>
+  </data>
+  <data name="tShowData" xml:space="preserve">
+    <value>กดปุ่มค้นหาเพื่อโชว์ข้อมูล</value>
+  </data>
+  <data name="tSoi" xml:space="preserve">
+    <value>ซอย</value>
+  </data>
+  <data name="tStaContact" xml:space="preserve">
+    <value>สถานะการติดต่อ</value>
+  </data>
+  <data name="tSubDistrict" xml:space="preserve">
+    <value>แขวง / ตำบล</value>
+  </data>
+  <data name="tTax" xml:space="preserve">
+    <value>เลขประจำตัวผู้เสียภาษี</value>
+  </data>
+  <data name="tTelephone" xml:space="preserve">
+    <value>หมายเลขโทรศัพท์</value>
+  </data>
+  <data name="tType" xml:space="preserve">
+    <value>ประเภท</value>
+  </data>
+  <data name="tUser" xml:space="preserve">
+    <value>ผู้รับผิดชอบ</value>
+  </data>
+  <data name="tVillage" xml:space="preserve">
+    <value>หมู่บ้าน</value>
+  </data>
+  <data name="tWebsite" xml:space="preserve">
+    <value>เว็บไซต์</value>
+  </data>
+  <data name="tZone" xml:space="preserve">
+    <value>โซน</value>
+  </data>
+  <data name="tApprove" xml:space="preserve">
+    <value>อนุมัติ</value>
+  </data>
+  <data name="tCardExp" xml:space="preserve">
+    <value>วันหมดอายุ</value>
+  </data>
+  <data name="tCardIssue" xml:space="preserve">
+    <value>วันที่ออกบัตร</value>
+  </data>
+  <data name="tCardNo" xml:space="preserve">
+    <value>หมายเลขบัตร</value>
+  </data>
+  <data name="tCardRegis" xml:space="preserve">
+    <value>วันที่สมัคร</value>
+  </data>
+  <data name="tContactDay" xml:space="preserve">
+    <value>วันติดต่อประจำ</value>
+  </data>
+  <data name="tDestination" xml:space="preserve">
+    <value>ปลายทาง</value>
+  </data>
+  <data name="tDisapprove" xml:space="preserve">
+    <value>ไม่อนุมัติ</value>
+  </data>
+  <data name="tFriday" xml:space="preserve">
+    <value>วันศุกร์</value>
+  </data>
+  <data name="tIssuedBy" xml:space="preserve">
+    <value>ออกโดย</value>
+  </data>
+  <data name="tLeadTime" xml:space="preserve">
+    <value>จำนวนวันขนส่ง</value>
+  </data>
+  <data name="tLimit" xml:space="preserve">
+    <value>วงเงินเครดิต</value>
+  </data>
+  <data name="tLstContact" xml:space="preserve">
+    <value>วันที่ติดต่อล่าสุด</value>
+  </data>
+  <data name="tLstRcv" xml:space="preserve">
+    <value>รับชำระล่าสุด</value>
+  </data>
+  <data name="tMonday" xml:space="preserve">
+    <value>วันจันทร์</value>
+  </data>
+  <data name="tPayCdt" xml:space="preserve">
+    <value>เงื่อนไขชำระเงิน</value>
+  </data>
+  <data name="tPayment" xml:space="preserve">
+    <value>ชำระเงิน</value>
+  </data>
+  <data name="tSaturday" xml:space="preserve">
+    <value>วันเสาร์</value>
+  </data>
+  <data name="tShipBy" xml:space="preserve">
+    <value>ขนส่งโดย</value>
+  </data>
+  <data name="tShippingCdt" xml:space="preserve">
+    <value>เงื่อนไขขนส่ง</value>
+  </data>
+  <data name="tSource" xml:space="preserve">
+    <value>ต้นทาง</value>
+  </data>
+  <data name="tStaActive" xml:space="preserve">
+    <value>สถานะใช้งาน</value>
+  </data>
+  <data name="tStaApprove" xml:space="preserve">
+    <value>สถานะอนุมัติ</value>
+  </data>
+  <data name="tStatementCdt" xml:space="preserve">
+    <value>เงื่อนไขวางบิล</value>
+  </data>
+  <data name="tSunday" xml:space="preserve">
+    <value>วันอาทิตย์</value>
+  </data>
+  <data name="tTerm" xml:space="preserve">
+    <value>เครดิต (วัน)</value>
+  </data>
+  <data name="tThursday" xml:space="preserve">
+    <value>วันพฤหัสบดี</value>
+  </data>
+  <data name="tTuesday" xml:space="preserve">
+    <value>วันอังคาร</value>
+  </data>
+  <data name="tWednesday" xml:space="preserve">
+    <value>วันพุธ</value>
+  </data>
+  <data name="tModeScan" xml:space="preserve">
+    <value>สแกนคิวอาร์โค้ด</value>
+  </data>
+  <data name="tModeSearch" xml:space="preserve">
+    <value>ค้นหา</value>
+  </data>
+  <data name="tTitleScanQR" xml:space="preserve">
+    <value>กรุณาสแกนคิวอาร์โค้ด</value>
+  </data>
+  <data name="tMsgQRExpire" xml:space="preserve">
+    <value>คิวอาร์โค้ดนี้หมดอายุแล้ว</value>
+  </data>
+  <data name="tMsgQRFmt" xml:space="preserve">
+    <value>รูปแบบคิวอาร์โค้ดไม่ถูกต้อง</value>
+  </data>
+  <data name="tTitelQRPayAmt" xml:space="preserve">
+    <value>ยอดชำระ :</value>
+  </data>
+  <data name="tTitleQRCardID" xml:space="preserve">
+    <value>รหัสบัตรประจำตัว :</value>
+  </data>
+  <data name="tTitleQRName" xml:space="preserve">
+    <value>ชื่อ - สกุล :</value>
+  </data>
+  <data name="tTitleQRParcel" xml:space="preserve">
+    <value>รหัสพัสดุ :</value>
+  </data>
+  <data name="tTitleQRRefCode" xml:space="preserve">
+    <value>รหัสอ้างอิง :</value>
+  </data>
+  <data name="tTitleQRTel" xml:space="preserve">
+    <value>เบอร์โทรศัพท์ :</value>
+  </data>
+  <data name="tMsgDiffPriLev" xml:space="preserve">
+    <value>ระดับราคาขายต่างกัน ไม่สามารถแก้ไขได้(เปลี่ยนโดยการยกเลิกเอกสาร อย่างเดียว)</value>
+  </data>
+  <data name="tMsgCantSelectCst" xml:space="preserve">
+    <value>มีการทำรายการค้างอยู่ ไม่สามารถเลือกลูกค้าใหม่ได้</value>
+  </data>
+</root>

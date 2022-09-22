@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t19branch_code">Branch Code</string>
+    <string name="t19selling_point">POS Code</string>
+    <string name="t19regis_selling">Register Selling Point</string>
+    <string name="t19sync_value">Sync Value</string>
+    <string name="t19branch_admin">Admin Password</string>
+    <string name="t19regis_mac">Mac Address Number</string>
+    <string name="t19regis_name">Computer Name</string>
+    <string name="t19selectbch">Select Branch</string>
+    <string name="t19selectpos">SelectPos</string>
+    <string name="t19ErrorALT">Please Select Branch First</string>
+    <string name="t19setting">Setting</string>
+    <string name="t19syncvalues">Balance syncing will affect your local balance. Do you want to sync the remaining data?</string>
+    <string name="t19CheckStock">CheckStockType</string>
+    <string name="t19online">Online</string>
+    <string name="t19offline">Offline</string>
+    <string name="t19downloading">Downloading</string>
+    <string name="namet19yes">Yes</string>
+    <string name="namet19No">No</string>
+    <string name="t19prepare_pmt">Prepare Promotion</string>
+</resources>

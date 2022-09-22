@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="t39uploadHQ">ส่งรายการรับขึ้น HQ</string>
+    <string name="t39docno">เลขที่เอกสาร</string>
+    <string name="t39date">วันที่</string>
+    <string name="t39status">สถานะ</string>
+    <string name="t39edit">แก้ไข</string>
+    <string name="t39bchcreate">สาขาที่สร้าง</string>
+
+    <string name="t39code">รหัส</string>
+    <string name="t39pdtname">ชื่อสินค้า</string>
+    <string name="t39unit">หน่วย</string>
+    <string name="t39qtyref">จ่ายโอน</string>
+    <string name="t39qty">จำนวน</string>
+
+    <string name="t39ErrorNotfound">ไม่พบใบจ่ายโอน</string>
+    <string name="t39ErrorConnectServer">ไม่สามารถเชื่อมต่อเซิร์ฟเวอร์ได้</string>
+
+</resources>

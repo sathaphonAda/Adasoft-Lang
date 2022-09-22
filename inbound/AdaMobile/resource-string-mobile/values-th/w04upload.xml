@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t03DownloadMaster">ดาวน์โหลดข้อมูล</string>
+    <string name="t03MasterTable">ตาราง</string>
+    <string name="t03MasterLast">วันที่ล่าสุด</string>
+
+    <string name="t03Sync">ดาวน์โหลด</string>
+    <string name="t03Upload">อัพโหลด</string>
+    <string name="t03Docno">เลขที่เอกสาร</string>
+    <string name="t03DesShift">ข้อมูลการเปิดรอบ-ปิดรอบ</string>
+    <string name="t03DesSale">ข้อมูลการขาย</string>
+    <string name="t03StartDate">วันที่เริ่มต้น :&#160;</string>
+    <string name="t03DateCompare">วันที่ :&#160;</string>
+    <string name="t03MsgDate">วันที่สิ้นสุดต้องไม่น้อยกว่าวันที่เริ่มต้น</string>
+    <string name="t03TitleUpload">กำลังอัปโหลด &#8230;</string>
+    <string name="t03MsgSelect">กรุณาเลือกข้อมูลที่คุณต้องการอัปโหลด</string>
+    <string name="t03PwdWrong">รหัสผ่านไม่ถูกต้อง</string>
+    <string name="t04chkall">เลือกทั้งหมด</string>
+    <string name="t04CheckShift">รอบการขายปัจจุบัน</string>
+
+    <string name="t04searchupl">ค้นหาข้อมูลอัพโหลด</string>
+
+
+</resources>

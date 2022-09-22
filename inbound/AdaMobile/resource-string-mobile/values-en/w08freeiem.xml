@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t08freetitle">Free</string>
+    <string name="t08freemsg">List of free product</string>
+    <string name="t08freemsgdetail">The system will adjust the price to 0 in the selected item. Do you confirm the order?</string>
+</resources>

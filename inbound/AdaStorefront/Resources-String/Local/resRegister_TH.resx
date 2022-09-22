@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tBchQty" xml:space="preserve">
+    <value>จำนวนสาขา</value>
+  </data>
+  <data name="tBsnType" xml:space="preserve">
+    <value>ประเภทธุรกิจ</value>
+  </data>
+  <data name="tBusinessName" xml:space="preserve">
+    <value>ชื่อร้านค้า / ชื่อลูกค้า</value>
+  </data>
+  <data name="tBusinessType" xml:space="preserve">
+    <value>แผนการใช้งาน</value>
+  </data>
+  <data name="tDemo" xml:space="preserve">
+    <value>ทดลองใช้งาน</value>
+  </data>
+  <data name="tEmail" xml:space="preserve">
+    <value>อีเมล</value>
+  </data>
+  <data name="tEmailFormat" xml:space="preserve">
+    <value>รูปแบบอีเมลไม่ถูกต้อง</value>
+  </data>
+  <data name="tMsgBsnTypeQty" xml:space="preserve">
+    <value>กรุณาเลือกประเภทธุรกิจแค่ 1 รายการ</value>
+  </data>
+  <data name="tOther" xml:space="preserve">
+    <value>อื่นๆ โปรดระบุ</value>
+  </data>
+  <data name="tRealStore" xml:space="preserve">
+    <value>เปิดบัญชีร้านค้า</value>
+  </data>
+  <data name="tRegDuplicate" xml:space="preserve">
+    <value>เบอร์โทรศัพท์มีการใช้งานอยู่ในระบบแล้ว ระบบทำการส่งข้อมูลไปที่อีเมล กรุณาตรวจสอบอีเมล</value>
+  </data>
+  <data name="tRegError" xml:space="preserve">
+    <value>ลงทะเบียนไม่สำเร็จ</value>
+  </data>
+  <data name="tRegister" xml:space="preserve">
+    <value>ลงทะเบียนการใช้งาน</value>
+  </data>
+  <data name="tRegSuccess" xml:space="preserve">
+    <value>ลงทะเบียนใช้งานสำเร็จ, กรุณาตรวจสอบ บัญชีผู้ใช้งาน และรหัสผ่าน จากบัญชีอีเมลที่สมัคร</value>
+  </data>
+  <data name="tTel" xml:space="preserve">
+    <value>เบอร์โทรศัพท์</value>
+  </data>
+  <data name="tValidate" xml:space="preserve">
+    <value>กรุณาระบุ</value>
+  </data>
+  <data name="tActFail" xml:space="preserve">
+    <value>ยืนยันจุดขายไม่สำเร็จ</value>
+  </data>
+  <data name="tActivate" xml:space="preserve">
+    <value>ยืนยันจุดขาย</value>
+  </data>
+  <data name="tActSuccess" xml:space="preserve">
+    <value>ยืนยันจุดขายสำเร็จ</value>
+  </data>
+  <data name="tDataStore" xml:space="preserve">
+    <value>ข้อมูลร้านค้า</value>
+  </data>
+  <data name="tDetail" xml:space="preserve">
+    <value>รายละเอียด</value>
+  </data>
+  <data name="tImpLic" xml:space="preserve">
+    <value>นำเข้าทะเบียนจุดขาย</value>
+  </data>
+  <data name="tNone" xml:space="preserve">
+    <value>ยังไม่ได้ระบุ</value>
+  </data>
+  <data name="tRefCode" xml:space="preserve">
+    <value>รหัสอ้างอิงลูกค้า</value>
+  </data>
+  <data name="tVerify" xml:space="preserve">
+    <value>ตรวจสอบ</value>
+  </data>
+  <data name="tRegistered" xml:space="preserve">
+    <value>ลงทะเบียนแล้ว</value>
+  </data>
+  <data name="tCopyUUID" xml:space="preserve">
+    <value>คัดลอกเลขเครื่องจุดขาย</value>
+  </data>
+  <data name="tMsgCopyUUID" xml:space="preserve">
+    <value>คัดลอกเลขเครื่องจุดขายแล้ว</value>
+  </data>
+  <data name="tMsgInvalidFileLic" xml:space="preserve">
+    <value>ไฟล์ License ไม่ถูกต้อง</value>
+  </data>
+  <data name="tUUID" xml:space="preserve">
+    <value>เลขเครื่องจุดขาย</value>
+  </data>
+  <data name="tAccept" xml:space="preserve">
+    <value>ฉันยอมรับ</value>
+  </data>
+  <data name="tAnd" xml:space="preserve">
+    <value>และ</value>
+  </data>
+  <data name="tChkPrivacy" xml:space="preserve">
+    <value>กรุณากดยอมรับเงื่อนไขการให้บริการและนโยบายความเป็นส่วนตัว</value>
+  </data>
+  <data name="tPrivacy" xml:space="preserve">
+    <value>นโยบายความเป็นส่วนตัว</value>
+  </data>
+  <data name="tTerms" xml:space="preserve">
+    <value>เงื่อนไขการให้บริการ</value>
+  </data>
+  <data name="tLabelReg" xml:space="preserve">
+    <value>บริษัทขอสงวนสิทธิ์ในการเปลี่ยนแปลงเงื่อนไขโดยไม่ต้องแจ้งให้ทราบล่วงหน้า</value>
+  </data>
+  <data name="tDateExpir" xml:space="preserve">
+    <value>ข้อมูลวันหมดอายุ</value>
+  </data>
+  <data name="tEndDate" xml:space="preserve">
+    <value>วันที่สิ้นสุด</value>
+  </data>
+  <data name="tRegisterData" xml:space="preserve">
+    <value>ข้อมูลการลงทะเบียน</value>
+  </data>
+  <data name="tStartDate" xml:space="preserve">
+    <value>วันที่เริ่มต้น</value>
+  </data>
+  <data name="tStatus" xml:space="preserve">
+    <value>สถานะ</value>
+  </data>
+  <data name="tLabelExp" xml:space="preserve">
+    <value>* กรณีเครื่องจุดขายหมดอายุกรุณาติดต่อเจ้าหน้าที่</value>
+  </data>
+  <data name="tStatusExp" xml:space="preserve">
+    <value>เครื่องจุดขายหมดอายุการใช้งาน</value>
+  </data>
+  <data name="tStatusNotExp" xml:space="preserve">
+    <value>เครื่องจุดขายใช้งานได้ปกติ</value>
+  </data>
+  <data name="tTitPrivicy" xml:space="preserve">
+    <value>* กรุณาตรวจสอบนโยบายความเป็นส่วนตัว</value>
+  </data>
+  <data name="tTitTerms" xml:space="preserve">
+    <value>* กรุณาตรวจสอบเงื่อนไขการให้บริการ</value>
+  </data>
+  <data name="tBch" xml:space="preserve">
+    <value>สาขา</value>
+  </data>
+  <data name="tMsgRead" xml:space="preserve">
+    <value>กรุณาอ่าน</value>
+  </data>
+  <data name="tNewAccount" xml:space="preserve">
+    <value>ลงทะเบียนใหม่</value>
+  </data>
+  <data name="tPackageType" xml:space="preserve">
+    <value>ประเภทแพ็คเกจ</value>
+  </data>
+  <data name="tAcceptRegister" xml:space="preserve">
+    <value>ยืนยันการลงทะเบียน</value>
+  </data>
+  <data name="tAlreadyAccount" xml:space="preserve">
+    <value>มีบัญชีร้านค้าแล้ว</value>
+  </data>
+  <data name="tMsgDataNotFound" xml:space="preserve">
+    <value>ไม่พบข้อมูล</value>
+  </data>
+  <data name="tMsgTelLength" xml:space="preserve">
+    <value>เบอร์โทรศัพท์ต้องมีความยาวอย่างน้อย 8 ตัว หรือมากกว่า</value>
+  </data>
+</root>

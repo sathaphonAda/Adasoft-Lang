@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t41topic">Credit installment payment</string>
+    <string name="t41topicinstallment">installment plan</string>
+    <string name="t41cardno">credit card number</string>
+    <string name="t41expir">expiration date</string>
+    <string name="t41approve">approve</string>
+    <string name="t41ref">referral</string>
+    <string name="t41cardtype">credit card type</string>
+    <string name="t41plan">plan</string>
+    <string name="t41minimum">minimum</string>
+    <string name="t41time">time\n(month)</string>
+    <string name="t41interest"> interest rate</string>
+    <string name="t41cal">  calculated per period</string>
+    <string name="t41cardtypeerror">Please input Card Type !!!</string>
+    <string name="t41planerror">Please input Card Installment Plan !!!</string>
+    <string name="t41planerrorplan">Installment plan not found !!!</string>
+</resources>

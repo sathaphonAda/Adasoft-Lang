@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="t03Version">เวอร์ชัน : 1.05.00 (190)</string>
+    <string name="t03ShiftOpen">เปิดรอบ</string>
+    <string name="t03ShiftClose">ปิดรอบ</string>
+    <string name="t03TopUp">เติมเงิน</string>
+    <string name="t03CancelTopUp">ยกเลิก เติมเงิน</string>
+    <string name="t03TradeWristband">สายรัดข้อมือ</string>
+    <string name="t03Ticket">ตั๋ว</string>
+    <string name="t03Deposit">นำเงินเข้า</string>
+    <string name="t03Withdraw">นำเงินออก</string>
+    <string name="t03OpenDrawer">เปิดลิ้นชัก</string>
+    <string name="t03TaxInvoice">ใบกำกับภาษี</string>
+    <string name="t03Reprint">พิมพ์ซ้ำ</string>
+    <string name="t03DownloadOrUp">ดาวน์โหลด / อัปโหลด</string>
+    <string name="t03SpotCheck">จุดตรวจสอบ</string>
+    <string name="t03BackOffice">หลังบ้าน</string>
+    <string name="t03User">ผู้ใช้</string>
+    <string name="t03Logout">ออกจากระบบ</string>
+
+    <string name="t03Home">Home</string>
+    <string name="t03Dashboard">Dashboard</string>
+    <string name="t03Manual">Manual</string>
+    <string name="t03About">About</string>
+    <string name="t03Setting">Setting</string>
+    <string name="t03Exit">Exit</string>
+
+    <string name="t03Adasoft">Adasoft Co.,Ltd</string>
+    <string name="t03Day">วันจันทร์&#8211;วันศุกร์</string>
+    <string name="t03DayTime">8:30&#8211;17:30</string>
+    <string name="t03Location">26/5&#8211;8 ซอยลาดพร้าว83 (จิตต์อารีย์) ถนนลาดพร้าว
+        แขวงคลองเจ้าคุณสิงห์ เขตวังทองหลาง กรุงเทพฯ 10310</string>
+    <string name="t03Phone1">+662&#8211;5301681 (อัตโนมัต)</string>
+    <string name="t03Phone2">+668&#8211;63360724&#8211;255 </string>
+    <string name="t03Phone3">+662&#8211;5301681 ต่อ.1109 </string>
+    <string name="t03Auto">บริษัท</string>
+    <string name="t03Hotline">สายด่วน</string>
+    <string name="t03Fax">แฟกซ์</string>
+    <string name="t03EmailText">info@ada-soft.com</string>
+    <string name="t03Software">รายละเอียดซอฟต์แวร์</string>
+    <string name="t03LicenseSta">สถานะใบอนุญาต : - </string>
+    <string name="t03SysVersion">รุ่นของระบบ : 1.05.00(190)</string>
+    <string name="t03UsrDetail">รายละเอียดผู้ใช้</string>
+    <string name="t03Email">อีเมล์ :</string>
+
+    <string name="t03start">เริ่มต้น</string>
+    <string name="t03stop">สิ้นสุด</string>
+    <string name="t03expire">หมดอายุ</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="t08seq">Seq</string>
+    <string name="t08barcode">Barcode</string>
+    <string name="t08pdtname">Product Name</string>
+    <string name="t08qty">Qty</string>
+    <string name="t08unit">Unit</string>
+    <string name="t08price">Price</string>
+    <string name="t08dis">Dis.</string>
+    <string name="t08summary">Summary</string>
+    <string name="t08qty2">Qty :</string>
+    <string name="t08total">Total</string>
+    <string name="t08subtotal">Subtotal</string>
+    <string name="t08page">Page</string>
+    <string name="t08saledoc">Sale Doc :</string>
+    <string name="t08cannotpay">Not found product</string>
+
+    <string name="t08search">Search</string>
+    
+    <string name="t08cstcode2sale">CstCode</string>
+    <string name="t08cstnamesale">Name</string>
+    <string name="t08csttelsale">Tel.</string>
+    <string name="t08cstmember">Member Card</string>
+    <string name="t08cstcard">Card ID</string>
+    <string name="t08schbyname">Search By Name</string>
+    <string name="t08schbycstcode">Search By CstCode</string>
+    <string name="t08schbytax">Search By Tax No.</string>
+    <string name="t08schbyphone">Search By Phone Number</string>
+    <string name="t08schbymem">Search By Member Card</string>
+    <string name="t08schbyid">Search By Card ID</string>
+
+    <string name="t08remark">Remark</string>
+
+    <string name="t08dispercent">Discount percent</string>
+    <string name="t08beforedis">Before discount percent</string>
+    <string name="t08amount">Amount</string>
+    <string name="t08afterdis">After discount percent</string>
+    
+    <string name="t08returnsale">Return Sale</string>
+    <string name="t08referbill">Refer to bill</string>
+    <string name="t08docno">Document No.</string>
+
+    <string name="t08promotion">Promotion</string>
+    <string name="t08prodis">Discount</string>
+    <string name="t08propermiss">Permission/Coupon</string>
+    <string name="t08propoint">Point</string>
+    <string name="t08prolist">List</string>
+    <string name="t08proadd">Add</string>
+    <string name="t08chkpromotion">Check New Promotion</string>
+    <string name="t08proreceive">Receive</string>
+
+
+    <string name="t08customer">Customer :</string>
+    <string name="t08cstpoint">Point :</string>
+    <string name="t08generalcst">General Customer</string>
+
+    <string name="t08title">Product Scan</string>
+    <string name="t08binlocation">Location</string>
+    <string name="t08holdbill">Hold Bill</string>
+    <string name="t08selectlist">Item List</string>
+    <string name="t08notfoundsloc">WareHouse Reference Code Not Define</string>
+
+    <string name="t08holdref_key">Ref./Phone</string>
+    <string name="t08notfoundcar">Data not found!!!</string>
+    <string name="t08notfoundkubotaid">Not found KubotaID !!!</string>
+    <string name="t08pdtnotenought">Stock balance :</string>
+    <string name="t08pdtnotenoughtlist">Stock balance not enough</string>
+    <string name="t08nocus">Please Select Customer</string>
+
+    <string name="t08chainerror">Product not found in Wahouse</string>
+
+    <string name="t08multiplelimit">multiple limit 99 item</string>
+    <string name="t08opendrawer">open cash drawer</string>
+
+</resources>

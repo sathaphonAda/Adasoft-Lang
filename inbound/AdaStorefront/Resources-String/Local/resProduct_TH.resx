@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="tActive" xml:space="preserve">
+    <value>เคลื่อนไหว</value>
+  </data>
+  <data name="tAge" xml:space="preserve">
+    <value>อายุสินค้า</value>
+  </data>
+  <data name="tAnnual" xml:space="preserve">
+    <value>รายปี</value>
+  </data>
+  <data name="tArticle" xml:space="preserve">
+    <value>ตัวเลข หรือ ตัวอักษร บอกถึงเนื้อผ้า</value>
+  </data>
+  <data name="tBalance" xml:space="preserve">
+    <value>คงเหลือ</value>
+  </data>
+  <data name="tBarcode" xml:space="preserve">
+    <value>บาร์โค้ด</value>
+  </data>
+  <data name="tBrand" xml:space="preserve">
+    <value>ยี่ห้อ</value>
+  </data>
+  <data name="tCal" xml:space="preserve">
+    <value>เปิดใช้งานคำนวน</value>
+  </data>
+  <data name="tClass" xml:space="preserve">
+    <value>Class</value>
+  </data>
+  <data name="tCode" xml:space="preserve">
+    <value>รหัส</value>
+  </data>
+  <data name="tColor" xml:space="preserve">
+    <value>สี</value>
+  </data>
+  <data name="tControlSpc" xml:space="preserve">
+    <value>สินค้าควบคุม</value>
+  </data>
+  <data name="tCostAmt" xml:space="preserve">
+    <value>ต้นทุนรวม</value>
+  </data>
+  <data name="tCostAvg" xml:space="preserve">
+    <value>ราคาต้นทุนเฉลี่ย</value>
+  </data>
+  <data name="tCostDfn" xml:space="preserve">
+    <value>ราคาต้นทุนกำหนดเอง</value>
+  </data>
+  <data name="tCostFiFo" xml:space="preserve">
+    <value>ราคาต้นทุนเข้าก่อนออกก่อน</value>
+  </data>
+  <data name="tCostLst" xml:space="preserve">
+    <value>ราคาต้นทุนซื้อครั้งสุดท้าย</value>
+  </data>
+  <data name="tCostOth" xml:space="preserve">
+    <value>ต้นทุนอื่น</value>
+  </data>
+  <data name="tCostStd" xml:space="preserve">
+    <value>ต้นทุนมาตรฐาน</value>
+  </data>
+  <data name="tCsm" xml:space="preserve">
+    <value>ซื้อขาด</value>
+  </data>
+  <data name="tCustomDay" xml:space="preserve">
+    <value>วันที่กำหนดเอง</value>
+  </data>
+  <data name="tDaily" xml:space="preserve">
+    <value>รายวัน</value>
+  </data>
+  <data name="tDcs" xml:space="preserve">
+    <value>กลุ่มสินค้าตาม DCS</value>
+  </data>
+  <data name="tDepart" xml:space="preserve">
+    <value>หมวด</value>
+  </data>
+  <data name="tDeposit" xml:space="preserve">
+    <value>ค่ามัดจำ</value>
+  </data>
+  <data name="tDisChg" xml:space="preserve">
+    <value>อนุญาตลด / ชาร์จ</value>
+  </data>
+  <data name="tEvent" xml:space="preserve">
+    <value>ช่วงเวลาห้ามขาย</value>
+  </data>
+  <data name="tFactor" xml:space="preserve">
+    <value>อัตราส่วน</value>
+  </data>
+  <data name="tFashion" xml:space="preserve">
+    <value>แฟชั่น</value>
+  </data>
+  <data name="tFee" xml:space="preserve">
+    <value>ค่าเช่า</value>
+  </data>
+  <data name="tGeneral" xml:space="preserve">
+    <value>สินค้าทั่วไป</value>
+  </data>
+  <data name="tGift" xml:space="preserve">
+    <value>ของแถม</value>
+  </data>
+  <data name="tGroup" xml:space="preserve">
+    <value>กลุ่ม</value>
+  </data>
+  <data name="tHourly" xml:space="preserve">
+    <value>รายชั่วโมง</value>
+  </data>
+  <data name="tInformation" xml:space="preserve">
+    <value>ข้อมูลทั่วไป</value>
+  </data>
+  <data name="tMax" xml:space="preserve">
+    <value>ระดับจำนวนสูงสุด</value>
+  </data>
+  <data name="tMaxHeart" xml:space="preserve">
+    <value>อุณหภูมิ สูงสุด</value>
+  </data>
+  <data name="tMfg" xml:space="preserve">
+    <value>วันที่ผลิต</value>
+  </data>
+  <data name="tMin" xml:space="preserve">
+    <value>ระดับจำนวนต่ำสุด</value>
+  </data>
+  <data name="tModel" xml:space="preserve">
+    <value>รุ่น</value>
+  </data>
+  <data name="tMonthly" xml:space="preserve">
+    <value>รายเดือน</value>
+  </data>
+  <data name="tName" xml:space="preserve">
+    <value>ชื่อ</value>
+  </data>
+  <data name="tNameABB" xml:space="preserve">
+    <value>ชื่อสินค้าอย่างย่อ (ABB)</value>
+  </data>
+  <data name="tNotAllowAll" xml:space="preserve">
+    <value>ไม่ใช้งาน</value>
+  </data>
+  <data name="tOlnPri" xml:space="preserve">
+    <value>ราคาขาย Online</value>
+  </data>
+  <data name="tOpenPLU" xml:space="preserve">
+    <value>แก้ไขได้</value>
+  </data>
+  <data name="tOther" xml:space="preserve">
+    <value>อื่นๆ</value>
+  </data>
+  <data name="tOtherName" xml:space="preserve">
+    <value>ชื่ออื่น</value>
+  </data>
+  <data name="tOthName" xml:space="preserve">
+    <value>ชื่อสินค้า เพิ่มเติม</value>
+  </data>
+  <data name="tPage" xml:space="preserve">
+    <value>พบ {0} แถว. หน้า {1}/{2}</value>
+  </data>
+  <data name="tPdtGrp" xml:space="preserve">
+    <value>กลุ่มสินค้า</value>
+  </data>
+  <data name="tPdtType" xml:space="preserve">
+    <value>ประเภทสินค้า</value>
+  </data>
+  <data name="tPntTime" xml:space="preserve">
+    <value>จำนวนแต้มสำหรับแลกสินค้า</value>
+  </data>
+  <data name="tPoint" xml:space="preserve">
+    <value>ให้แต้ม</value>
+  </data>
+  <data name="tPrice" xml:space="preserve">
+    <value>ราคา</value>
+  </data>
+  <data name="tProduct" xml:space="preserve">
+    <value>สินค้า</value>
+  </data>
+  <data name="tProductN" xml:space="preserve">
+    <value>สินค้าปกติ</value>
+  </data>
+  <data name="tProductSet" xml:space="preserve">
+    <value>สินค้าปกติชุด</value>
+  </data>
+  <data name="tQtyOrdBuy" xml:space="preserve">
+    <value>จำนวนสั่งซื้อที่เหมาะสม</value>
+  </data>
+  <data name="tRefShop" xml:space="preserve">
+    <value>สินค้าอ้างอิงจากร้านค้า</value>
+  </data>
+  <data name="tRemark" xml:space="preserve">
+    <value>หมายเหตุ</value>
+  </data>
+  <data name="tRental" xml:space="preserve">
+    <value>เช่า</value>
+  </data>
+  <data name="tRepack" xml:space="preserve">
+    <value>ราคาตามหน่วย</value>
+  </data>
+  <data name="tRequestReturn" xml:space="preserve">
+    <value>คืนสินค้า</value>
+  </data>
+  <data name="tRetpri" xml:space="preserve">
+    <value>ราคาขายปลีก</value>
+  </data>
+  <data name="tReturn" xml:space="preserve">
+    <value>อนุญาตคืน</value>
+  </data>
+  <data name="tSalePrice" xml:space="preserve">
+    <value>บังคับใช้</value>
+  </data>
+  <data name="tSaleStart" xml:space="preserve">
+    <value>วันที่เริ่มขาย</value>
+  </data>
+  <data name="tSaleStop" xml:space="preserve">
+    <value>วันที่สิ้นสุดขาย</value>
+  </data>
+  <data name="tSaleType" xml:space="preserve">
+    <value>ใช้ราคาขาย</value>
+  </data>
+  <data name="tScales" xml:space="preserve">
+    <value>น้ำหนัก</value>
+  </data>
+  <data name="tSearch" xml:space="preserve">
+    <value>ค้นหา</value>
+  </data>
+  <data name="tSeason" xml:space="preserve">
+    <value>ฤดูกาล</value>
+  </data>
+  <data name="tSerial" xml:space="preserve">
+    <value>สินค้า Serial</value>
+  </data>
+  <data name="tSerialSet" xml:space="preserve">
+    <value>สินค้า Serial Set</value>
+  </data>
+  <data name="tService" xml:space="preserve">
+    <value>สินค้าบริการ</value>
+  </data>
+  <data name="tSetOrSN" xml:space="preserve">
+    <value>สินค้าชุดหรือ Serial</value>
+  </data>
+  <data name="tSetPrice" xml:space="preserve">
+    <value>ราคาชุด</value>
+  </data>
+  <data name="tSetPriSta" xml:space="preserve">
+    <value>สถานะการใช้ราคา</value>
+  </data>
+  <data name="tSetShwDt" xml:space="preserve">
+    <value>แสดงรายการย่อย</value>
+  </data>
+  <data name="tShop" xml:space="preserve">
+    <value>ร้านค้า</value>
+  </data>
+  <data name="tShowData" xml:space="preserve">
+    <value>กดปุ่มค้นหาเพื่อโชว์ข้อมูล</value>
+  </data>
+  <data name="tSize" xml:space="preserve">
+    <value>ขนาด</value>
+  </data>
+  <data name="tSpecial" xml:space="preserve">
+    <value>สินค้าพิเศษ</value>
+  </data>
+  <data name="tStepPrice" xml:space="preserve">
+    <value>ราคาตามช่วง</value>
+  </data>
+  <data name="tStkCtl" xml:space="preserve">
+    <value>ควบคุมสต๊อก</value>
+  </data>
+  <data name="tStkFac" xml:space="preserve">
+    <value>อัตราส่วนสต๊อก</value>
+  </data>
+  <data name="tSubClass" xml:space="preserve">
+    <value>Sub Class</value>
+  </data>
+  <data name="tSumPrice" xml:space="preserve">
+    <value>ราคาย่อย</value>
+  </data>
+  <data name="tSupplier" xml:space="preserve">
+    <value>ผู้จำหน่าย</value>
+  </data>
+  <data name="tTchGrp" xml:space="preserve">
+    <value>กลุ่มหน้าจอ Touch Screen</value>
+  </data>
+  <data name="tTime" xml:space="preserve">
+    <value>ระยะเวลาให้เช่า</value>
+  </data>
+  <data name="tType" xml:space="preserve">
+    <value>ประเภท</value>
+  </data>
+  <data name="tUnit" xml:space="preserve">
+    <value>หน่วย</value>
+  </data>
+  <data name="tUnknown" xml:space="preserve">
+    <value>ไม่ระบุ</value>
+  </data>
+  <data name="tVat" xml:space="preserve">
+    <value>ภาษี</value>
+  </data>
+  <data name="tWeight" xml:space="preserve">
+    <value>เครื่องชั่ง</value>
+  </data>
+  <data name="tWhsPri" xml:space="preserve">
+    <value>ราคาขายส่ง</value>
+  </data>
+</root>

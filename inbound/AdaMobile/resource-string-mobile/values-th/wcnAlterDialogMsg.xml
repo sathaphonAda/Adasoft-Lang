@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wcnNotEnoughsale">ยอดคงเหลือไม่พอขาย</string>
+    <string name="wcnnotfound">ไม่พบสินค้า</string>
+    <string name="wcnError">ผิดพลาด</string>
+    <string name="wcnAccept">ตกลง</string>
+    <string name="wcnEnterpin">ใส่ PIN</string>
+    <string name="wcnEnterpw">ใส่รหัสผ่าน</string>
+    <string name="wcnfilltext">กรุณากรอกตามเงื่อนไข</string>
+    <string name="wcnholdbill">การพักบิล</string>
+    <string name="wcndetail">ระบบจะบันทึกรายการปัจจุบันเก็บสำรองไว้พร้อมสำหรับดึงมาใช้ครั้งต่อไป คุณยืนยันคำสั่ง?</string>
+    <string name="wcnWithdrawError">ไม่สามารถนำเงินออกได้ เนื่องจากยอดเงินนำออกมากกว่านำเข้า</string>
+    <string name="wcnnotfoundholdbill">ไม่มีข้อมูล เพื่อที่จะทำรายการได้</string>
+    <string name="wcnnotpermissionrequest">กรุณาเปิดแอปพลิเคชันอีกครั้งเพื่อยินยอมให้เข้าถึงข้อมูล</string>
+    <string name="wcnnofoundrsn">ไม่พบเหตุผล</string>
+    <string name="wcncannotopenshift">เครื่องจุดขายยังไม่ลงทะเบียน/อนุมัติการใช้งาน</string>
+    <string name="wcncancel">ยกเลิก</string>
+    <string name="wcnwaning">คำเตือน</string>
+    <string name="wcnexit">คุณต้องการออกจากแอพพลิเคชั่น</string>
+    <string name="wcncloseshift">รอบการขายไม่ใช่รอบของวันปัจจุบัน กรุณาปิดรอบการขายเดิมก่อน !!!</string>
+    <string name="wcnPlscloseshift">กรุณาปิดรอบก่อนเปลี่ยนแปลงข้อมูล</string>
+    <string name="wcnwaitApprov">ลงทะเบียนแล้วรอการอนุมัติ</string>
+    <string name="wcnApprov">ได้รับอนุญาตใช้งานแล้ว</string>
+    <string name="wcnExp">วันหมดอายุ</string>
+    <string name="wcnPrintLostConnect">ไม่สามารถเชื่อมต่อกับเครื่องพิมพ์ได้!</string>
+
+    <string name="wcnalertmsg">แจ้งเตือน</string>
+    <string name="wcnadeletemsg">ยืนยันการลบข้อมูล</string>
+    <string name="wcnTbiHisEror">ไม่พบข้อมูล</string>
+
+    <string name="wcnhavedocref">มีรายการที่อ้างอิงเลขที่เอกสารนี้แล้ว</string>
+    //ปรับ ui back ทุกหน้า default ทั่วไป
+</resources>
+
